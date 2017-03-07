@@ -1,3 +1,6 @@
+# 2017/03/07 #
+* Learn how to extend t2.micro volumne.
+
 # 2017/03/05 #
 * Writed a python code which can detect latest large video from specific channel and download to mp4 file.
 
