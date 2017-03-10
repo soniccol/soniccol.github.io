@@ -1,3 +1,6 @@
+# 2017/03/10 #
+* Studied a ptt crawler base on python 2
+
 # 2017/03/07 #
 * Learn how to extend t2.micro volumne.
 
