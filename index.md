@@ -1,3 +1,6 @@
+# 2017/03/11 #
+* Learned how to use let's encrypt to set up ssl for my domain name soniccol.com .
+
 # 2017/03/10 #
 * Studied a ptt crawler base on python 2
 
