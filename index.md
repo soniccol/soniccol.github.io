@@ -1,3 +1,6 @@
+# 2017/03/13 #
+* Adjust my aws to suitable free teer configuration.
+
 # 2017/03/11 #
 * Learned how to use let's encrypt to set up ssl for my domain name soniccol.com .
 
