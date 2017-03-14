@@ -1,3 +1,6 @@
+# 2017/03/14 #
+* NCTU lab meeting, learned some info about GAN application.
+
 # 2017/03/13 #
 * Adjust my aws to suitable free teer configuration.
 
