@@ -1,3 +1,6 @@
+# 2017/03/15 #
+* Learned how to use grunt and jshint to verified my project javascript file.
+
 # 2017/03/14 #
 * NCTU lab meeting, learned some info about GAN application.
 
