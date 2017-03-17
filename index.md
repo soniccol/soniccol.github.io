@@ -1,3 +1,6 @@
+# 2017/03/17 #
+* Encountered chassis intrude problem, tried to figure it out but failed.
+
 # 2017/03/15 #
 * Learned how to use grunt and jshint to verified my project javascript file.
 
