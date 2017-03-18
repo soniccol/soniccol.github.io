@@ -1,3 +1,6 @@
+# 2017/03/18 #
+* Found nvidia grapic card on newer linux problem, suggestion is install nvidia graphic card after installation of system.
+
 # 2017/03/17 #
 * Encountered chassis intrude problem, tried to figure it out but failed.
 
