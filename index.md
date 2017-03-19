@@ -1,5 +1,5 @@
 # 2017/03/19 #
-* Figure out how to use HK 3 telecom prepaid card to use in UK.
+* Figure out how to use HK 3 telecom prepaid card worked in UK.
 
 # 2017/03/18 #
 * Found nvidia grapic card on newer linux problem, suggestion is install nvidia graphic card after installation of system.
