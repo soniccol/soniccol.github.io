@@ -1,3 +1,6 @@
+# 2017/03/20 #
+* Figure out how to run darknet and ccminer with nvidia GPU on centos 6.6.
+
 # 2017/03/19 #
 * Figure out how to use HK 3 telecom prepaid card worked in UK.
 
