@@ -1,5 +1,8 @@
+# 2017/03/21 #
+* Install glibc 2.17 up on centos 6.8, causing system crash, reinstall centos 6.8.
+
 # 2017/03/20 #
-* Figure out how to run darknet and ccminer with nvidia GPU on centos 6.6.
+* Figure out how to run darknet and ccminer with nvidia GPU on centos 6.8.
 
 # 2017/03/19 #
 * Figure out how to use HK 3 telecom prepaid card worked in UK.
