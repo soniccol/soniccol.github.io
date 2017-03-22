@@ -1,3 +1,6 @@
+# 2017/03/22 #
+* Configure mysql and apache on my experimental linux server.
+
 # 2017/03/21 #
 * Install glibc 2.17 up on centos 6.8, causing system crash, reinstall centos 6.8.
 
