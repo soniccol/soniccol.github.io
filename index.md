@@ -1,3 +1,6 @@
+# 2017/03/23 #
+* Managed old working server, pack and clean some old code.
+
 # 2017/03/22 #
 * Configure mysql and apache on my experimental linux server.
 
