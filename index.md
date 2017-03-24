@@ -1,4 +1,4 @@
-# 2017/03/24 #
+## 2017/03/24 ##
 * Learned how to install oracle 11gR1 DBMS on centos 6.8.
 
 # 2017/03/23 #
