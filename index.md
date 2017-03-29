@@ -1,3 +1,7 @@
+## 2017/03/29 ##
+* Apple Pay finally comes to Taiwan.
+* Change Mysql data path successfully.
+
 ## 2017/03/28 ##
 * Migrate massive Mysql database data to another server.
 
