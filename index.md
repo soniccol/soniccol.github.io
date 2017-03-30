@@ -1,3 +1,7 @@
+## 2017/03/30 ##
+* Change MongoDB data path successfully.
+* Migrate large MongoDB data from other server.
+
 ## 2017/03/29 ##
 * Apple Pay finally comes to Taiwan.
 * Change Mysql data path successfully.
