@@ -1,3 +1,6 @@
+## 2017/04/02 ##
+* Tomb swipping day off.
+
 ## 2017/03/30 ##
 * Change MongoDB data path successfully.
 * Migrate large MongoDB data from other server.
