@@ -1,3 +1,6 @@
+## 2017/04/04 ##
+* Studied some php 7 installation guide.
+
 ## 2017/04/02 ##
 * Tomb swipping day off.
 
