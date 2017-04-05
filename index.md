@@ -1,3 +1,6 @@
+## 2017/04/05 ##
+* Make some test on Ethereum mining.
+
 ## 2017/04/04 ##
 * Studied some php 7 installation guide.
 
