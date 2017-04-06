@@ -1,5 +1,11 @@
+## 2017/04/06 ##
+* Succesfully installed redmine on my test server.
+* Move jenkins home to a larger space.
+
 ## 2017/04/05 ##
 * Make some test on Ethereum mining.
+* Use Etarminer with nvidia 1070 gpu to mine.
+* Share reject problem, change server to solve it.
 
 ## 2017/04/04 ##
 * Studied some php 7 installation guide.
