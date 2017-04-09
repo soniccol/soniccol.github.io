@@ -1,3 +1,6 @@
+## 2017/04/09 ##
+* Test some cmake functions, tried to compile it to a large exe file.
+
 ## 2017/04/06 ##
 * Succesfully installed redmine on my test server.
 * Move jenkins home to a larger space.
