@@ -1,3 +1,6 @@
+## 2017/04/10 ##
+* Finally figure it out how to compile xmr-stak-cpu on centos 6.
+
 ## 2017/04/09 ##
 * Test some cmake functions, tried to compile it to a large exe file.
 
