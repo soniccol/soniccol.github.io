@@ -1,3 +1,6 @@
+## 2017/04/11 ##
+* Transfer my eclipse dynamic project to maven succesfully.
+
 ## 2017/04/10 ##
 * Finally figure it out how to compile xmr-stak-cpu on centos 6.
 
