@@ -1,3 +1,6 @@
+## 2017/04/12 ##
+* Maven unit test using jenkins successfully.
+
 ## 2017/04/11 ##
 * Transfer my eclipse dynamic project to maven succesfully.
 
