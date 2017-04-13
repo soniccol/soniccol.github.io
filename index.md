@@ -1,3 +1,6 @@
+## 2017/04/13 ##
+* Enable http2 on a server apache.
+
 ## 2017/04/12 ##
 * Maven unit test using jenkins successfully.
 
