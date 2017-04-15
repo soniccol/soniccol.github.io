@@ -1,5 +1,5 @@
 ## 2017/04/15 ##
-* Tried to enable another http2 on server but failed.
+* Tried to enable another http2 on server and successed.
 
 ## 2017/04/13 ##
 * Enable http2 on a server apache.
