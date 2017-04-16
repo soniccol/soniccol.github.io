@@ -1,8 +1,11 @@
+## 2017/04/16 ##
+* Studied basic blockchain concept.
+
 ## 2017/04/15 ##
 * Tried to enable another http2 on server and successed.
 
 ## 2017/04/13 ##
-* Enable http2 on a server apache.
+* Enable http2 on a server apache without right certification.
 
 ## 2017/04/12 ##
 * Maven unit test using jenkins successfully.
