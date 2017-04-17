@@ -1,3 +1,6 @@
+## 2017/04/17 ##
+* Using linkchecker to test my project web site.
+
 ## 2017/04/16 ##
 * Studied basic blockchain concept.
 
