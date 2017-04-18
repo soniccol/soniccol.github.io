@@ -1,3 +1,6 @@
+## 2017/04/18 ##
+* Setup windows to push source code through ssh to linux server successfully.
+
 ## 2017/04/17 ##
 * Using linkchecker to test my project web site.
 
