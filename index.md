@@ -1,4 +1,7 @@
 ## 2017/04/18 ##
+* Figured out how to push source code through ssh to multiple linux server successfully.
+
+## 2017/04/18 ##
 * Setup windows to push source code through ssh to linux server successfully.
 
 ## 2017/04/17 ##
