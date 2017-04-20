@@ -1,4 +1,7 @@
-## 2017/04/18 ##
+## 2017/04/20 ##
+* Configured a lending bot.
+
+## 2017/04/19 ##
 * Figured out how to push source code through ssh to multiple linux server successfully.
 
 ## 2017/04/18 ##
