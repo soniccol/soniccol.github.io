@@ -1,3 +1,6 @@
+## 2017/04/21 ##
+* Upgrade old mac to sierra system.
+
 ## 2017/04/20 ##
 * Configured a lending bot.
 
