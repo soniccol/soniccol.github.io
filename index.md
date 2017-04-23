@@ -1,3 +1,6 @@
+## 2017/04/23 ##
+* Understand how to reduce the death rate under thunder strike.
+
 ## 2017/04/21 ##
 * Upgrade old mac to sierra system.
 
