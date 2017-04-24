@@ -1,3 +1,6 @@
+## 2017/04/25 ##
+* Figured out how to avoid create another JPA connection when it is not closed.
+
 ## 2017/04/23 ##
 * Understand how to reduce the death rate under thunder strike.
 
