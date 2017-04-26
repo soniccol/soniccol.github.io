@@ -1,3 +1,6 @@
+## 2017/04/26 ##
+* Studied some online payment solutions.
+
 ## 2017/04/25 ##
 * Figured out how to avoid create another JPA connection when it is not closed.
 
