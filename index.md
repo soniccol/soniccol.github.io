@@ -1,3 +1,6 @@
+## 2017/04/27 ##
+* Temporary solved c and c++ linkage problem.
+
 ## 2017/04/26 ##
 * Studied some online payment solutions.
 
