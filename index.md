@@ -1,3 +1,6 @@
+## 2017/04/28 ##
+* Successfully compile xmr-stak-cpu on Windows 10 with VS2015.
+
 ## 2017/04/27 ##
 * Temporary solved c and c++ linkage problem.
 
