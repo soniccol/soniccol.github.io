@@ -1,3 +1,6 @@
+## 2017/04/29 ##
+* Learned git bitsect instruction for phpunit.
+
 ## 2017/04/28 ##
 * Successfully compile xmr-stak-cpu on Windows 10 with VS2015.
 
