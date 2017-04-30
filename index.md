@@ -1,3 +1,6 @@
+## 2017/04/30 ##
+* Learned some startup way in Thailand.
+
 ## 2017/04/29 ##
 * Learned git bitsect instruction for phpunit.
 
