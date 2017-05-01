@@ -1,3 +1,6 @@
+## 2017/05/01 ##
+* Studied some diginomad guide.
+
 ## 2017/04/30 ##
 * Learned some startup way in Thailand.
 
