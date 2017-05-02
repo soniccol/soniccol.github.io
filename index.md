@@ -1,3 +1,6 @@
+## 2017/05/02 ##
+* Tried some cuda code and study knapsack problem.
+
 ## 2017/05/01 ##
 * Studied some diginomad guide.
 
