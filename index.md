@@ -1,3 +1,6 @@
+## 2017/05/03 ##
+* Installed wordpress on my https://soniccol.com domain.
+
 ## 2017/05/02 ##
 * Tried some cuda code and study knapsack problem.
 
