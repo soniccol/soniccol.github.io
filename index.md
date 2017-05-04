@@ -1,3 +1,6 @@
+## 2017/05/04 ##
+* Joined an improving buying experience workshop.
+
 ## 2017/05/03 ##
 * Installed wordpress on my https://soniccol.com domain.
 
