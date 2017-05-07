@@ -1,3 +1,6 @@
+## 2017/05/08 ##
+* Product weighting mearsurments.
+
 ## 2017/05/04 ##
 * Joined an improving buying experience workshop.
 
