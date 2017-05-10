@@ -1,3 +1,6 @@
+## 2017/05/10 ##
+* Successfully compiled xmr-stak-nvidia on windows.
+
 ## 2017/05/09 ##
 * Principal hole problem discussion.
 
