@@ -1,3 +1,6 @@
+## 2017/05/11 ##
+* Successfully grab some data from product site and store it to MySQL using JPA.
+
 ## 2017/05/10 ##
 * Successfully compiled xmr-stak-nvidia on windows.
 
