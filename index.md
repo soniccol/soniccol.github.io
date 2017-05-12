@@ -1,3 +1,6 @@
+## 2017/05/12 ##
+* Java chinese regular expression filtering.
+
 ## 2017/05/11 ##
 * Successfully grab some data from product site and store it to MySQL using JPA.
 
