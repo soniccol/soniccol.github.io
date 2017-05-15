@@ -1,3 +1,9 @@
+## 2017/05/16 ##
+* Prepare for zcash mining.
+
+## 2017/05/15 ##
+* Report writing day.
+
 ## 2017/05/12 ##
 * Java chinese regular expression filtering.
 
