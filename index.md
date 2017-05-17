@@ -1,3 +1,6 @@
+## 2017/05/17 ##
+* Android video player concept.
+
 ## 2017/05/16 ##
 * Prepare for zcash mining.
 
