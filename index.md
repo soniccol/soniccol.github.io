@@ -1,3 +1,6 @@
+## 2017/05/18 ##
+* Finished reading my first Dale Carnegie book.
+
 ## 2017/05/17 ##
 * Android video player concept.
 
