@@ -1,3 +1,7 @@
+## 2017/05/19 ##
+* Govenor of Poker practicing.
+* Zcash mining success.
+
 ## 2017/05/18 ##
 * Finished reading my first Dale Carnegie book.
 
