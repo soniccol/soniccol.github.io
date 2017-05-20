@@ -1,3 +1,6 @@
+## 2017/05/20 ##
+* Learn some tips about how to become digit nomad in Taiwan.
+
 ## 2017/05/19 ##
 * Govenor of Poker practicing.
 * Zcash mining success.
