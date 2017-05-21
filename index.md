@@ -1,3 +1,6 @@
+## 2017/05/21 ##
+* Studied some linux rescue information.
+
 ## 2017/05/20 ##
 * Learn some tips about how to become digit nomad in Taiwan.
 
