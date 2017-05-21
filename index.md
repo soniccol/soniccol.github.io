@@ -1,5 +1,5 @@
 ## 2017/05/21 ##
-* Studied some linux rescue information.
+* Studied some linux rescue information and save my misdelete error.
 
 ## 2017/05/20 ##
 * Learn some tips about how to become digit nomad in Taiwan.
