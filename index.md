@@ -1,3 +1,8 @@
+## 2017/05/26 ##
+* Android project fast writing.
+* WeChat public account testing.
+* First time WOL success.
+
 ## 2017/05/22 ##
 * Google json processing library test.
 
