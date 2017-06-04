@@ -1,3 +1,6 @@
+## 2017/05/28 ~ 2017/06/01 ##
+* Xiamen trip
+
 ## 2017/05/26 ##
 * Android project fast writing.
 * WeChat public account testing.
