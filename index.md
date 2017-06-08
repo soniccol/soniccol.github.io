@@ -1,3 +1,6 @@
+## 2017/06/08 ##
+* Gartner data reading.
+
 ## 2017/06/07 ##
 * Recover using my icbc account.
 
