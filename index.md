@@ -1,3 +1,6 @@
+## 2017/06/09 ##
+* Android error reporting system testing.
+
 ## 2017/06/08 ##
 * Gartner data reading.
 
