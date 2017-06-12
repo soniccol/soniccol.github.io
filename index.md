@@ -1,3 +1,6 @@
+## 2017/06/12 ##
+* Tried Android autoupdate but failed.
+
 ## 2017/06/09 ##
 * Android error reporting system testing.
 
