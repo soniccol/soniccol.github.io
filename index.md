@@ -1,3 +1,6 @@
+## 2017/06/14 ##
+* Practice some communication skills.
+
 ## 2017/06/12 ##
 * Tried Android autoupdate but failed.
 
