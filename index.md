@@ -1,3 +1,6 @@
+## 2017/06/15 ##
+* Android video player tuning.
+
 ## 2017/06/14 ##
 * Practice some communication skills.
 
