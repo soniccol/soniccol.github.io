@@ -1,3 +1,6 @@
+## 2017/06/16 ##
+* Using android studio monitor to test video download app.
+
 ## 2017/06/15 ##
 * Android video player tuning.
 
