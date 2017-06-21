@@ -1,3 +1,6 @@
+## 2017/06/21 ##
+* Discuss some open source issue.
+
 ## 2017/06/16 ##
 * Using android studio monitor to test video download app.
 
