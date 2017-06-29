@@ -1,3 +1,6 @@
+## 2017/06/29 ##
+* Finished one prototype moto control app.
+
 ## 2017/06/21 ##
 * Discuss some open source issue.
 
