@@ -1,3 +1,6 @@
+## 2017/07/06 ##
+* Implement some html mail format.
+
 ## 2017/06/29 ##
 * Finished one prototype moto control app.
 
