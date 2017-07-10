@@ -1,3 +1,6 @@
+## 2017/07/10 ##
+* Figure out visual studio debug path.
+
 ## 2017/07/06 ##
 * Implement some html mail format.
 
