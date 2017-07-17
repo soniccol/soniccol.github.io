@@ -1,3 +1,6 @@
+## 2017/07/17 ##
+* Finished reading some startup books.
+
 ## 2017/07/10 ##
 * Figure out visual studio debug path.
 
