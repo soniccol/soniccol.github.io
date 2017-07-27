@@ -1,3 +1,8 @@
+## 2017/07/27 ##
+* Homography testing.
+* Android program.
+* Maven batch processing.
+
 ## 2017/07/17 ##
 * Finished reading some startup books.
 
