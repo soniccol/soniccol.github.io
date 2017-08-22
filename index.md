@@ -1,3 +1,6 @@
+## 2017/08/22 ##
+* OpenCV line function improve.
+
 ## 2017/07/27 ##
 * Homography testing.
 * Android program.
