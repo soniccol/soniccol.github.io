@@ -1,3 +1,6 @@
+## 2017/08/29 ##
+* First line bot connection successful.
+
 ## 2017/08/22 ##
 * OpenCV line function improve.
 
