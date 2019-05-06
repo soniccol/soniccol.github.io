@@ -1,3 +1,6 @@
+## 2019/05/06 ##
+* First workday since return from Japan.
+
 ## 2017/08/29 ##
 * First line bot connection successful.
 
