@@ -1,3 +1,6 @@
+## 2019/05/16 ##
+* Using glide android library to load image from url in listview.
+
 ## 2019/05/14 ##
 * Find a good document of design patterns, explained in simplified Chinese with java code.
 http://img.bigdatabugs.com/24%e7%a7%8d%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f%e4%bb%8b%e7%bb%8d%e4%b8%8e6%e5%a4%a7%e8%ae%be%e8%ae%a1%e5%8e%9f%e5%88%99@www.bigDataBugs.com.pdf
