@@ -1,3 +1,6 @@
+## 2019/05/17 ##
+* Experienced a heavy rian during office hour.
+
 ## 2019/05/16 ##
 * Using glide android library to load image from url in listview.
 
