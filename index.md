@@ -1,3 +1,6 @@
+## 2019/05/18 ##
+* Attended Line recruit day in Taipei and it was very fun.
+
 ## 2019/05/17 ##
 * Experienced a heavy rian during office hour.
 
