@@ -1,3 +1,6 @@
+## 2019/05/19 ##
+* Applied a 4g router for future use.
+
 ## 2019/05/18 ##
 * Attended Line recruit day in Taipei and it was very fun.
 
