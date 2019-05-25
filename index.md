@@ -1,3 +1,6 @@
+## 2019/05/25 ##
+* Moving my stuffs to new dorm.
+
 ## 2019/05/19 ##
 * Applied a 4g router for future use.
 
