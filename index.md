@@ -1,3 +1,6 @@
+## 2019/05/31 ##
+* Ends the job of ITRI.
+
 ## 2019/05/25 ##
 * Moving my stuffs to new dorm.
 
