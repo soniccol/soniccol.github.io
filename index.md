@@ -1,3 +1,6 @@
+## 2019/06/03 ##
+* First day in Bank industry.
+
 ## 2019/05/31 ##
 * Ends the job of ITRI.
 
