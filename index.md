@@ -1,3 +1,6 @@
+## 2019/06/04 ##
+* Learned some basis of T24 banking system.
+
 ## 2019/06/03 ##
 * First day in Bank industry.
 
