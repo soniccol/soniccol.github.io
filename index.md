@@ -1,3 +1,6 @@
+## 2019/06/07 ##
+* Dragon boats festival.
+
 ## 2019/06/04 ##
 * Learned some basis of T24 banking system.
 
