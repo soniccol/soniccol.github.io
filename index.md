@@ -1,3 +1,6 @@
+## 2019/06/10 ##
+* Learned some banking knowledge.
+
 ## 2019/06/07 ##
 * Dragon boats festival.
 
