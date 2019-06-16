@@ -1,3 +1,6 @@
+## 2019/06/13 ##
+* Day off.
+
 ## 2019/06/10 ##
 * Learned some banking knowledge.
 
