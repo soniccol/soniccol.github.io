@@ -1,3 +1,6 @@
+## 2019/06/19 ##
+* Prepare to create my own JAVA knowledge base.
+
 ## 2019/06/13 ##
 * Day off.
 
