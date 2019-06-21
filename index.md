@@ -1,3 +1,6 @@
+## 2019/06/21 ##
+* Learned some techniques to add datasource in JBoss EAP 7.2.
+
 ## 2019/06/19 ##
 * Prepare to create my own JAVA knowledge base.
 
