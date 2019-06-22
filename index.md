@@ -1,3 +1,6 @@
+## 2019/06/22 ##
+* OpenJDK will cause some web functions JBoss EAP 7.2 disappear.
+
 ## 2019/06/21 ##
 * Learned some techniques to add datasource in JBoss EAP 7.2.
 
