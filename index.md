@@ -1,3 +1,9 @@
+## 2019/06/24 ##
+* Review opinion writing.
+
+## 2019/06/23 ##
+* Day off.
+
 ## 2019/06/22 ##
 * OpenJDK will cause some web functions JBoss EAP 7.2 disappear.
 
