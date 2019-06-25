@@ -1,3 +1,6 @@
+## 2019/06/25 ##
+* JBoss vault configuration study.
+
 ## 2019/06/24 ##
 * Review opinion writing.
 
