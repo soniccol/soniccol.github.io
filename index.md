@@ -1,3 +1,6 @@
+## 2019/06/27 ##
+* R.
+
 ## 2019/06/26 ##
 * Migrate JBoss 5.1 projects to JBoss EAP 7.2 projects.
 
