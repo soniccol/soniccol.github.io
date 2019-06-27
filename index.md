@@ -1,5 +1,5 @@
 ## 2019/06/27 ##
-* R.
+* Review some presenting skills.
 
 ## 2019/06/26 ##
 * Migrate JBoss 5.1 projects to JBoss EAP 7.2 projects.
