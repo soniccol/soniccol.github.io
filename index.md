@@ -1,5 +1,6 @@
 ## 2019/06/28 ##
 * Attend Line chatbot meetup #10.
+* Oracle listagg try on.
 
 ## 2019/06/27 ##
 * Review some presenting skills.
