@@ -1,3 +1,6 @@
+## 2019/07/01 ##
+* Review some inner join and left outer join of oracle.
+
 ## 2019/06/28 ##
 * Attend Line chatbot meetup #10.
 * Oracle listagg try on.
