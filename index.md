@@ -1,3 +1,6 @@
+## 2019/07/02 ##
+* Migrate sql instructions from SQLServer to Oracle DBMS.
+
 ## 2019/07/01 ##
 * Review some inner join and left outer join of oracle.
 
