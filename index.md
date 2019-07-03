@@ -1,3 +1,6 @@
+## 2019/07/03 ##
+* Study some jvm garbage collection mechanism.
+
 ## 2019/07/02 ##
 * Migrate sql instructions from SQLServer to Oracle DBMS.
 
