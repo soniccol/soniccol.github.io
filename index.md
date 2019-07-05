@@ -1,3 +1,6 @@
+## 2019/07/05 ##
+* Oracle pl/sql cursor loop review.
+
 ## 2019/07/04 ##
 * Learned how to solve ORA-12704 problems.
 * https://blog.csdn.net/baidu_37107022/article/details/81259319
