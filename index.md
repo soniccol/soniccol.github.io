@@ -1,3 +1,6 @@
+## 2019/07/06 ##
+* Learned some spring datasource connecting techniques.
+
 ## 2019/07/05 ##
 * Oracle pl/sql cursor loop review.
 
