@@ -1,3 +1,7 @@
+## 2019/07/08 ##
+* Solved ora-01722 problem.
+* https://blog.csdn.net/yysyangyangyangshan/article/details/51762746
+
 ## 2019/07/06 ##
 * Learned some spring datasource connecting techniques.
 
