@@ -1,43 +1,24 @@
-## 2019/07/09 ##
+## 2019/07/08-12 ##
 * Most of the ora-00933 problems are table alias problem.
-
-## 2019/07/08 ##
 * Solved ora-01722 problem.
 * https://blog.csdn.net/yysyangyangyangshan/article/details/51762746
+* Write a migration guide about SQLServer to Oracle.
 
-## 2019/07/06 ##
+## 2019/07/01-06 ##
 * Learned some spring datasource connecting techniques.
-
-## 2019/07/05 ##
 * Oracle pl/sql cursor loop review.
-
-## 2019/07/04 ##
 * Learned how to solve ORA-12704 problems.
 * https://blog.csdn.net/baidu_37107022/article/details/81259319
-
-## 2019/07/03 ##
 * Study some jvm garbage collection mechanism.
-
-## 2019/07/02 ##
 * Migrate sql instructions from SQLServer to Oracle DBMS.
-
-## 2019/07/01 ##
 * Review some inner join and left outer join of oracle.
 
-## 2019/06/28 ##
+## 2019/06/24-28 ##
 * Attend Line chatbot meetup #10.
 * Oracle listagg try on.
-
-## 2019/06/27 ##
 * Review some presenting skills.
-
-## 2019/06/26 ##
 * Migrate JBoss 5.1 projects to JBoss EAP 7.2 projects.
-
-## 2019/06/25 ##
 * JBoss vault configuration study.
-
-## 2019/06/24 ##
 * Review opinion writing.
 
 ## 2019/06/23 ##
