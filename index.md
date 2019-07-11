@@ -3,6 +3,9 @@
 * Solved ora-01722 problem.
 * https://blog.csdn.net/yysyangyangyangshan/article/details/51762746
 * Write a migration guide about SQLServer to Oracle.
+* Learned some update from method for oracle, but need more practice.
+* https://blog.csdn.net/lk_blog/article/details/7595498
+* http://frankiestudy.blogspot.com/2013/11/oracle-update-join-again-ora-01779.html
 
 ## 2019/07/01-06 ##
 * Learned some spring datasource connecting techniques.
