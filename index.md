@@ -1,3 +1,6 @@
+## 2019/07/15-19 ##
+
+
 ## 2019/07/08-12 ##
 * Most of the ora-00933 problems are table alias problem.
 * Solved ora-01722 problem.
@@ -35,22 +38,12 @@
 * Learned some basis of T24 banking system.
 * First day in Bank industry.
 
-## 2019/05/31 ##
+## 2019/05/16-31 ##
 * Ends the job of ITRI.
-
-## 2019/05/25 ##
 * Moving my stuffs to new dorm.
-
-## 2019/05/19 ##
 * Applied a 4g router for future use.
-
-## 2019/05/18 ##
 * Attended Line recruit day in Taipei and it was very fun.
-
-## 2019/05/17 ##
 * Experienced a heavy rian during office hour.
-
-## 2019/05/16 ##
 * Using glide android library to load image from url in listview.
 
 ## 2019/05/14 ##
