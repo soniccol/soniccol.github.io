@@ -1,5 +1,5 @@
 ## 2019/07/15-19 ##
-
+* Tomcat initially study.
 
 ## 2019/07/08-12 ##
 * Most of the ora-00933 problems are table alias problem.
