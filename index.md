@@ -1,6 +1,9 @@
 ## 2019/07/15-19 ##
 * Tomcat initially study.
 * Learned how to speed up eclipse IDE and verified.
+* Learned how to install kaiu font in ireport.
+* http://samchu.logdown.com/posts/160891-jasperreport-chinese-display
+*
 
 ## 2019/07/08-12 ##
 * Most of the ora-00933 problems are table alias problem.
