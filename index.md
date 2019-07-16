@@ -3,7 +3,7 @@
 * Learned how to speed up eclipse IDE and verified.
 * Learned how to install kaiu font in ireport.
 * http://samchu.logdown.com/posts/160891-jasperreport-chinese-display
-*
+* Review of iReport.
 
 ## 2019/07/08-12 ##
 * Most of the ora-00933 problems are table alias problem.
@@ -50,17 +50,13 @@
 * Experienced a heavy rian during office hour.
 * Using glide android library to load image from url in listview.
 
-## 2019/05/14 ##
+## 2019/05/06-14 ##
 * Find a good document of design patterns, explained in simplified Chinese with java code.
 http://img.bigdatabugs.com/24%e7%a7%8d%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f%e4%bb%8b%e7%bb%8d%e4%b8%8e6%e5%a4%a7%e8%ae%be%e8%ae%a1%e5%8e%9f%e5%88%99@www.bigDataBugs.com.pdf
-
-## 2019/05/06 ##
 * First workday since return from Japan.
 
-## 2017/08/29 ##
+## 2017/08/22-29 ##
 * First line bot connection successful.
-
-## 2017/08/22 ##
 * OpenCV line function improve.
 
 ## 2017/07/27 ##
