@@ -1,6 +1,9 @@
 ## 2019/07/15-19 ##
 * Tomcat initially study.
 * Learned how to speed up eclipse IDE and verified.
+* http://www.nicolasbize.com/blog/7-tips-to-speed-up-eclipse/ 
+* https://www.dev2qa.com/how-to-solve-eclipse-building-workspace-too-slow-problem/ 
+* https://stackoverflow.com/questions/316265/how-can-you-speed-up-eclipse 
 * Learned how to install kaiu font in ireport.
 * http://samchu.logdown.com/posts/160891-jasperreport-chinese-display
 * Review of iReport.
