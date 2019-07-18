@@ -5,7 +5,7 @@
 * https://www.dev2qa.com/how-to-solve-eclipse-building-workspace-too-slow-problem/ 
 * https://stackoverflow.com/questions/316265/how-can-you-speed-up-eclipse 
 * Learned how to install kaiu font in ireport.
-* New font install in ireport: http://samchu.logdown.com/posts/160891-jasperreport-chinese-display
+* Installing new font in ireport: http://samchu.logdown.com/posts/160891-jasperreport-chinese-display
 * Review of iReport.
 
 ## 2019/07/08-12 ##
