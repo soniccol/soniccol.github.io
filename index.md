@@ -117,66 +117,34 @@ http://img.bigdatabugs.com/24%e7%a7%8d%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f%e4%bb
 ## 2017/05/21 ##
 * Studied some linux rescue information and save my misdelete error.
 
-## 2017/05/20 ##
+## 2017/05/16-20 ##
 * Learn some tips about how to become digit nomad in Taiwan.
-
-## 2017/05/19 ##
 * Govenor of Poker practicing.
 * Zcash mining success.
-
-## 2017/05/18 ##
 * Finished reading my first Dale Carnegie book.
-
-## 2017/05/17 ##
 * Android video player concept.
-
-## 2017/05/16 ##
 * Prepare for zcash mining.
 
-## 2017/05/15 ##
+## 2017/05/09-15 ##
 * Report writing day.
-
-## 2017/05/12 ##
 * Java chinese regular expression filtering.
-
-## 2017/05/11 ##
 * Successfully grab some data from product site and store it to MySQL using JPA.
-
-## 2017/05/10 ##
 * Successfully compiled xmr-stak-nvidia on windows.
-
-## 2017/05/09 ##
 * Principal hole problem discussion.
 
-## 2017/05/08 ##
+## 2017/05/01-08 ##
 * Product weighting mearsurments.
-
-## 2017/05/04 ##
 * Joined an improving buying experience workshop.
-
-## 2017/05/03 ##
 * Installed wordpress on my https://soniccol.com domain.
-
-## 2017/05/02 ##
 * Tried some cuda code and study knapsack problem.
-
-## 2017/05/01 ##
 * Studied some diginomad guide.
 
-## 2017/04/30 ##
-* Learned some startup way in Thailand.
-
-## 2017/04/29 ##
-* Learned git bitsect instruction for phpunit.
-
-## 2017/04/28 ##
-* Successfully compile xmr-stak-cpu on Windows 10 with VS2015.
-
-## 2017/04/27 ##
-* Temporary solved c and c++ linkage problem.
-
-## 2017/04/26 ##
+## 2017/04/26-30 ##
 * Studied some online payment solutions.
+* Learned some startup way in Thailand.
+* Learned git bitsect instruction for phpunit.
+* Successfully compile xmr-stak-cpu on Windows 10 with VS2015.
+* Temporary solved c and c++ linkage problem.
 
 ## 2017/04/17-25 ##
 * Using linkchecker to test my project web site.
