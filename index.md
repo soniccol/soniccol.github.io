@@ -5,7 +5,7 @@
 * https://www.dev2qa.com/how-to-solve-eclipse-building-workspace-too-slow-problem/ 
 * https://stackoverflow.com/questions/316265/how-can-you-speed-up-eclipse 
 * Learned how to install kaiu font in ireport.
-* http://samchu.logdown.com/posts/160891-jasperreport-chinese-display
+* New font install in ireport: http://samchu.logdown.com/posts/160891-jasperreport-chinese-display
 * Review of iReport.
 
 ## 2019/07/08-12 ##
@@ -178,26 +178,14 @@ http://img.bigdatabugs.com/24%e7%a7%8d%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f%e4%bb
 ## 2017/04/26 ##
 * Studied some online payment solutions.
 
-## 2017/04/25 ##
-* Figured out how to avoid create another JPA connection when it is not closed.
-
-## 2017/04/23 ##
-* Understand how to reduce the death rate under thunder strike.
-
-## 2017/04/21 ##
-* Upgrade old mac to sierra system.
-
-## 2017/04/20 ##
-* Configured a lending bot.
-
-## 2017/04/19 ##
-* Figured out how to push source code through ssh to multiple linux server successfully.
-
-## 2017/04/18 ##
-* Setup windows to push source code through ssh to linux server successfully.
-
-## 2017/04/17 ##
+## 2017/04/17-25 ##
 * Using linkchecker to test my project web site.
+* Figured out how to avoid create another JPA connection when it is not closed.
+* Understand how to reduce the death rate under thunder strike.
+* Upgrade old mac to sierra system.
+* Configured a lending bot.
+* Figured out how to push source code through ssh to multiple linux server successfully.
+* Setup windows to push source code through ssh to linux server successfully.
 
 ## 2017/04/10-16 ##
 * Finally figure it out how to compile xmr-stak-cpu on centos 6.
