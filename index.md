@@ -199,52 +199,30 @@ http://img.bigdatabugs.com/24%e7%a7%8d%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f%e4%bb
 ## 2017/04/17 ##
 * Using linkchecker to test my project web site.
 
-## 2017/04/16 ##
+## 2017/04/10-16 ##
+* Finally figure it out how to compile xmr-stak-cpu on centos 6.
+* Transfer my eclipse dynamic project to maven succesfully.
 * Studied basic blockchain concept.
-
-## 2017/04/15 ##
 * Tried to enable another http2 on server and successed.
-
-## 2017/04/13 ##
 * Enable http2 on a server apache without right certification.
-
-## 2017/04/12 ##
 * Maven unit test using jenkins successfully.
 
-## 2017/04/11 ##
-* Transfer my eclipse dynamic project to maven succesfully.
-
-## 2017/04/10 ##
-* Finally figure it out how to compile xmr-stak-cpu on centos 6.
-
-## 2017/04/09 ##
+## 2017/04/02-09 ##
+* Tomb swipping day off.
 * Test some cmake functions, tried to compile it to a large exe file.
-
-## 2017/04/06 ##
 * Succesfully installed redmine on my test server.
 * Move jenkins home to a larger space.
-
-## 2017/04/05 ##
 * Make some test on Ethereum mining.
 * Use Etarminer with nvidia 1070 gpu to mine.
 * Share reject problem, change server to solve it.
-
-## 2017/04/04 ##
 * Studied some php 7 installation guide.
 
-## 2017/04/02 ##
-* Tomb swipping day off.
-
-## 2017/03/30 ##
+## 2017/03/28-30 ##
+* Migrate massive Mysql database data to another server.
 * Change MongoDB data path successfully.
 * Migrate large MongoDB data from other server.
-
-## 2017/03/29 ##
 * Apple Pay finally comes to Taiwan.
 * Change Mysql data path successfully.
-
-## 2017/03/28 ##
-* Migrate massive Mysql database data to another server.
 
 ## 2017/03/18-27 ##
 * Found nvidia grapic card on newer linux problem, suggestion is install nvidia graphic card after installation of system.
