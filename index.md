@@ -67,54 +67,30 @@ http://img.bigdatabugs.com/24%e7%a7%8d%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f%e4%bb
 * Android program.
 * Maven batch processing.
 
-## 2017/07/17 ##
+## 2017/07/06-17 ##
 * Finished reading some startup books.
-
-## 2017/07/10 ##
 * Figure out visual studio debug path.
-
-## 2017/07/06 ##
 * Implement some html mail format.
 
-## 2017/06/29 ##
+## 2017/06/14-29 ##
 * Finished one prototype moto control app.
-
-## 2017/06/21 ##
 * Discuss some open source issue.
-
-## 2017/06/16 ##
 * Using android studio monitor to test video download app.
-
-## 2017/06/15 ##
 * Android video player tuning.
-
-## 2017/06/14 ##
 * Practice some communication skills.
 
-## 2017/06/12 ##
+## 2017/06/07-12 ##
 * Tried Android autoupdate but failed.
-
-## 2017/06/09 ##
 * Android error reporting system testing.
-
-## 2017/06/08 ##
 * Gartner data reading.
-
-## 2017/06/07 ##
 * Recover using my icbc account.
-
-## 2017/05/28 ~ 2017/06/01 ##
 * Xiamen trip
 
-## 2017/05/26 ##
+## 2017/05/21-26 ##
 * Android project fast writing.
 * WeChat public account testing.
 * First time WOL success.
-
-## 2017/05/22 ##
 * Google json processing library test.
-
-## 2017/05/21 ##
 * Studied some linux rescue information and save my misdelete error.
 
 ## 2017/05/16-20 ##
