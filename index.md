@@ -62,12 +62,10 @@ http://img.bigdatabugs.com/24%e7%a7%8d%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f%e4%bb
 * First line bot connection successful.
 * OpenCV line function improve.
 
-## 2017/07/27 ##
+## 2017/07/06-27 ##
 * Homography testing.
 * Android program.
 * Maven batch processing.
-
-## 2017/07/06-17 ##
 * Finished reading some startup books.
 * Figure out visual studio debug path.
 * Implement some html mail format.
