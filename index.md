@@ -1,4 +1,4 @@
-## 2019/07/15-19 ##
+## 2019/07/15-21 ##
 * Tomcat initially study.
 * Learned how to speed up eclipse IDE and verified.
 * http://www.nicolasbize.com/blog/7-tips-to-speed-up-eclipse/ 
@@ -7,6 +7,8 @@
 * Learned how to install kaiu font in ireport.
 * Installing new font in ireport: http://samchu.logdown.com/posts/160891-jasperreport-chinese-display
 * Review of iReport.
+* Learned how to use youtubedl with cookie.txt to login to youtube.
+* https://github.com/ytdl-org/youtube-dl/issues/11270
 
 ## 2019/07/08-12 ##
 * Most of the ora-00933 problems are table alias problem.
