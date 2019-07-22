@@ -1,3 +1,6 @@
+## 2019/07/22-26 ##
+* Read twitter JVM garbage collection slides.
+
 ## 2019/07/15-21 ##
 * Tomcat initially study.
 * Learned how to speed up eclipse IDE and verified.
