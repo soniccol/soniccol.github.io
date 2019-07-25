@@ -1,7 +1,7 @@
 ## 2019/07/22-26 ##
 * Read twitter JVM garbage collection slides.
 * Use of Oracle merge into function.
-* Use of sql server partition table to improve table counting performance.
+* Use of sql server partition table to improve record counting performance.
 
 ## 2019/07/15-21 ##
 * Tomcat initially study.
