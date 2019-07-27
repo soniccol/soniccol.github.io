@@ -3,6 +3,7 @@
 * Use of Oracle merge into function.
 * Use of sql server partition table to improve record counting performance.
 * github funny projects guides in simplified Chinese: https://blog.csdn.net/sinat_33224091/article/details/97206378
+* A pxxnhub like logo generator: https://github.com/bestony/logoly
 
 ## 2019/07/15-21 ##
 * Tomcat initially study.
