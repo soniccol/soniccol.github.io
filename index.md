@@ -4,6 +4,7 @@
 * Use of sql server partition table to improve record counting performance.
 * github funny projects guides in simplified Chinese: https://blog.csdn.net/sinat_33224091/article/details/97206378
 * A pxxnhub like logo generator: https://github.com/bestony/logoly
+* Find a cool trading tool in this github repository: https://github.com/StockSharp/StockSharp
 
 ## 2019/07/15-21 ##
 * Tomcat initially study.
