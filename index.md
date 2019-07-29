@@ -1,3 +1,5 @@
+## 2019/07/29-08/02 ##
+
 ## 2019/07/22-26 ##
 * Read twitter JVM garbage collection slides.
 * Use of Oracle merge into function.
