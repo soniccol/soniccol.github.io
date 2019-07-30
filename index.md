@@ -1,4 +1,5 @@
 ## 2019/07/29-08/02 ##
+* Blockchain theory review.
 
 ## 2019/07/22-26 ##
 * Read twitter JVM garbage collection slides.
