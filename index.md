@@ -1,6 +1,8 @@
 ## 2019/07/29-08/02 ##
 * Blockchain theory review.
 * Introduced with a universal db tool called DBeaver: https://dbeaver.io
+* How to solve sql server collate problem in simplified Chinese: https://bbs.csdn.net/topics/100036645
+
 ## 2019/07/22-26 ##
 * Read twitter JVM garbage collection slides.
 * Use of Oracle merge into function.
