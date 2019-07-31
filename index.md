@@ -1,6 +1,6 @@
 ## 2019/07/29-08/02 ##
 * Blockchain theory review.
-
+* Introduced with a universal db tool called DBeaver: https://dbeaver.io
 ## 2019/07/22-26 ##
 * Read twitter JVM garbage collection slides.
 * Use of Oracle merge into function.
