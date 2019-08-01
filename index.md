@@ -2,6 +2,7 @@
 * Blockchain theory review.
 * Introduced with a universal db tool called DBeaver: https://dbeaver.io
 * How to solve SQL Error [468] [S0009]. The solutions are in simplified Chinese: https://bbs.csdn.net/topics/100036645
+* Line developer meetup, learned a lot of things about architecture.
 
 ## 2019/07/22-26 ##
 * Read twitter JVM garbage collection slides.
