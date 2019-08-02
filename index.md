@@ -2,6 +2,7 @@
 * Blockchain theory review.
 * Introduced with a universal db tool called DBeaver: https://dbeaver.io
 * Use of sql server partition table to improve record counting performance and verified with actual data.
+* https://stackoverflow.com/questions/1443704/query-to-list-number-of-records-in-each-table-in-a-database
 * How to solve SQL Error [468] [S0009]. The solutions are in simplified Chinese: https://bbs.csdn.net/topics/100036645
 * Line developer meetup, learned a lot of things about architecture.
 * Byzantine Lab meeting, learned some concept of Tangerine network.
