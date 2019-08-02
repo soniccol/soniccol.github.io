@@ -1,6 +1,7 @@
 ## 2019/07/29-08/02 ##
 * Blockchain theory review.
 * Introduced with a universal db tool called DBeaver: https://dbeaver.io
+* Use of sql server partition table to improve record counting performance and verified with actual data.
 * How to solve SQL Error [468] [S0009]. The solutions are in simplified Chinese: https://bbs.csdn.net/topics/100036645
 * Line developer meetup, learned a lot of things about architecture.
 * Byzantine Lab meeting, learned some concept of Tangerine network.
@@ -8,7 +9,6 @@
 ## 2019/07/22-26 ##
 * Read twitter JVM garbage collection slides.
 * Use of Oracle merge into function.
-* Use of sql server partition table to improve record counting performance.
 * github funny projects guides in simplified Chinese: https://blog.csdn.net/sinat_33224091/article/details/97206378
 * A pxxnhub like logo generator: https://github.com/bestony/logoly
 * Find a cool trading tool in this github repository: https://github.com/StockSharp/StockSharp
