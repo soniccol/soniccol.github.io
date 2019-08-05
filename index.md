@@ -1,5 +1,5 @@
 ## 2019/08/05-08/09 ##
-
+* Solved issue SQL Error [245] [S0001]: Conversion failed when converting the varchar value 'N' to data type int.
 
 ## 2019/07/29-08/02 ##
 * Blockchain theory review.
