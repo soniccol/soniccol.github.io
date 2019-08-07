@@ -1,6 +1,7 @@
 ## 2019/08/05-08/09 ##
 * Solved issue SQL Error [245] [S0001]: Conversion failed when converting the varchar value 'N' to data type int.
 * Change org.eclipse.wst.common.component to change web deploy name.
+* Solved wrong encoding about RequestDispatcher, reference: https://blog.csdn.net/java2000_net/article/details/2049947
 
 ## 2019/07/29-08/02 ##
 * Blockchain theory review.
