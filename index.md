@@ -3,6 +3,7 @@
 * Change org.eclipse.wst.common.component to change web deploy name.
 * Solved wrong encoding about RequestDispatcher, reference: https://blog.csdn.net/java2000_net/article/details/2049947
 * Use Singleton design pattern to solve retry problem.
+* JBoss EAP 7.2 logging issue fighting.
 * Typhoon Holliday.
 
 ## 2019/07/29-08/02 ##
