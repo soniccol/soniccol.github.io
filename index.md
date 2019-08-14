@@ -2,6 +2,7 @@
 * Use dos2unix instruction to convert windows txt file format to unix txt file format.
 * Linux chaning commands practice.
 * Bank system close of business and data transfer.
+* Solved maven problems.
 
 ## 2019/08/05-08/09 ##
 * Solved issue SQL Error [245] [S0001]: Conversion failed when converting the varchar value 'N' to data type int.
