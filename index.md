@@ -5,6 +5,7 @@
 * Solved maven problems.
 * Attend Java usergroup meetup in LINE Taiwan office.
 * Spring Boot and Armeria are the keys of LINE.
+* Outdoor activities.
 
 ## 2019/08/05-08/09 ##
 * Solved issue SQL Error [245] [S0001]: Conversion failed when converting the varchar value 'N' to data type int.
