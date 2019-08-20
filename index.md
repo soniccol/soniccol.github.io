@@ -1,5 +1,6 @@
 ## 2019/08/19-08/23 ##
 * Learned Throwable is the most high level object in Java try catch cluase.
+* Use sql to generate date list.
 
 ## 2019/08/12-08/16 ##
 * Use dos2unix instruction to convert windows txt file format to unix txt file format.
