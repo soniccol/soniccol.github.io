@@ -2,6 +2,7 @@
 * Learned Throwable is the most high level object in Java try catch cluase.
 * Use sql to generate date list.
 * Use jboss-deployment-structure to solve jar conflict problems.
+* RPC vs. HTTP in simplified Chinese: https://blog.csdn.net/MOU_IT/article/details/79873612
 
 ## 2019/08/12-08/16 ##
 * Use dos2unix instruction to convert windows txt file format to unix txt file format.
