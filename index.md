@@ -6,6 +6,7 @@
 * Attend an overseas job interview meetup.
 * Learned java volatile lightweight synchronization.
 * Learned java multi-thread singleton by using volatile.
+* Learned java changeAndSwap function and ABA related proglems.
 
 ## 2019/08/12-08/16 ##
 * Use dos2unix instruction to convert windows txt file format to unix txt file format.
