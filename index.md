@@ -1,5 +1,6 @@
 ## 2019/08/26-08/30 ##
 * ArrayList and HashSet are not thread safe datastructures.
+* Use SELECT @@VERSION AS 'SQL Server Version'; to get sql server version.
 
 ## 2019/08/19-08/23 ##
 * Learned Throwable is the most high level object in Java try catch cluase.
