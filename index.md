@@ -4,6 +4,7 @@
 * JBoss JTLD update from 1.2.4 to 1.3.1 success.
 * An interesting http status code presentation page: https://http.cat/
 * Learned some Reentrntlock concepts. 
+* Setup some eclipse code templates for future use.
 
 ## 2019/08/19-08/23 ##
 * Learned Throwable is the most high level object in Java try catch cluase.
