@@ -1,3 +1,6 @@
+## 2019/09/02-09/06 ##
+
+
 ## 2019/08/26-08/30 ##
 * ArrayList and HashSet are not thread safe datastructures.
 * Use SELECT @@VERSION AS 'SQL Server Version'; to get sql server version.
