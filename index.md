@@ -1,5 +1,5 @@
 ## 2019/09/02-09/06 ##
-
+* Use maven surefire plugin to do unit test and success.
 
 ## 2019/08/26-08/30 ##
 * ArrayList and HashSet are not thread safe datastructures.
