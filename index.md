@@ -4,6 +4,7 @@
 * Search a column from a table in oracle called all_tab_columns: https://www.thepolyglotdeveloper.com/2015/01/find-tables-oracle-database-column-name/
 * Attent TWJUG@Line and learned some concept about zgc and kafka performance tuning.
 * G1GC is a better GC in jDK8.
+* Some I/O delay in Kafka need to deep dive in Linux source code to solve them.
 
 
 ## 2019/08/26-08/30 ##
