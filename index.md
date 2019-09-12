@@ -1,6 +1,7 @@
 ## 2019/09/09-09/13 ##
 * Change from ParallelGC to G1GC, and understanding G1GC need more heap space.
 * Use apropos -s 1 '' instruction to list all available command in linux.
+* Big company usually use message queue to deliver rpc calls.
 
 ## 2019/09/02-09/06 ##
 * Use maven surefire plugin to do unit test and success.
