@@ -3,6 +3,7 @@
 * Use apropos -s 1 '' instruction to list all available command in linux.
 * Big company usually use message queue to deliver rpc calls.
 * Moon Festival!
+* First time experience of kafka and zookeeper.
 
 ## 2019/09/02-09/06 ##
 * Use maven surefire plugin to do unit test and success.
