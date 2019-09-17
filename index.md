@@ -1,6 +1,6 @@
 ## 2019/09/16-09/20 ##
 * Solved problems of eclipse checkstyle error: https://looking4q.blogspot.com/2011/01/what-if-i-get-fileset-from-project.html
-*
+* Use java -XX:+UnlockDiagnosticVMOptions -XX:+PrintFlagsFinal -version to print available jvm options.
 *
 
 ## 2019/09/09-09/13 ##
