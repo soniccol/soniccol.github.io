@@ -4,6 +4,7 @@
 * Attent Chatbot meetup #12 :)
 * Add JMX_Exporter in JBoss EAP 7.2, and get JVM data from prometheus successful.
 * Glowroot and PinPoint are cool JAVA Monitors.
+* UseParallelGC will invoke UseParallelOldGC, and vice versa.
 
 ## 2019/09/09-09/13 ##
 * Change from ParallelGC to G1GC, and understanding G1GC need more heap space.
