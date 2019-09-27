@@ -3,6 +3,7 @@
 * JBase Programming time.
 * Turn off eclipse language server connections will boost java content assistant speed.
 * Binary search can reach O(logN) time complexity on a sorted array.
+* Sorting is a good way to solve some array problems.
 
 ## 2019/09/16-09/20 ##
 * Solved problems of eclipse checkstyle error: https://looking4q.blogspot.com/2011/01/what-if-i-get-fileset-from-project.html
