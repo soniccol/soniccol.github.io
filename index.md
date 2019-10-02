@@ -1,4 +1,5 @@
-## 2019/09/30-10/04 ##
+## 2019/09/30-10/05 ##
+* Attend Line chatbot introduction event.
 
 ## 2019/09/23-09/27 ##
 * Queuing theory might be a better way to understand concurrent system.
