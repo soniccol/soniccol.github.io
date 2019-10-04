@@ -1,6 +1,7 @@
 ## 2019/09/30-10/05 ##
 * Attend Line chatbot introduction event.
 * Learned some github search tips.
+* Attend #jcconf 2019.
 
 ## 2019/09/23-09/27 ##
 * Queuing theory might be a better way to understand concurrent system.
