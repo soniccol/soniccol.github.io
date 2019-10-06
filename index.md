@@ -3,6 +3,7 @@
 * Learned some github search tips.
 * Attend #jcconf 2019.
 * It's pretty hard to build a system without load balancer.
+* It might be a good choice to use quarkus.io to reduce jar size.
 
 ## 2019/09/23-09/27 ##
 * Queuing theory might be a better way to understand concurrent system.
