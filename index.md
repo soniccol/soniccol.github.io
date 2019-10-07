@@ -1,3 +1,5 @@
+## 2019/10/07-10/11 ##
+
 ## 2019/09/30-10/05 ##
 * Attend Line chatbot introduction event.
 * Learned some github search tips.
