@@ -1,4 +1,5 @@
 ## 2019/10/07-10/11 ##
+* Monitoring takes some system resouces.
 
 ## 2019/09/30-10/05 ##
 * Attend Line chatbot introduction event.
