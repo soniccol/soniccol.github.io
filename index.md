@@ -3,6 +3,7 @@
 * 40 years up programmer discussion: https://dev.to/moopet/what-s-my-age-again-14eh
 * Use java tool to find problems in code.
 * Linkedin is not a good tool for searching jobs in Germany.
+* Java monitoring tools: https://mp.weixin.qq.com/s/axe-f2sK8P2OBDjPnpYoZw
 
 ## 2019/09/30-10/05 ##
 * Attend Line chatbot introduction event.
