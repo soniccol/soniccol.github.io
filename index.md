@@ -4,6 +4,7 @@
 * Use java tool to find problems in code.
 * Linkedin is not a good tool for searching jobs in Germany.
 * Java monitoring tools: https://mp.weixin.qq.com/s/axe-f2sK8P2OBDjPnpYoZw
+* MySQL HA session.
 
 ## 2019/09/30-10/05 ##
 * Attend Line chatbot introduction event.
