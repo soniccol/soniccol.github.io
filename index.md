@@ -1,3 +1,6 @@
+## 2019/10/14-10/18 ##
+
+
 ## 2019/10/07-10/11 ##
 * Monitoring takes some system resouces.
 * 40 years up programmer discussion: https://dev.to/moopet/what-s-my-age-again-14eh
