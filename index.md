@@ -1,5 +1,5 @@
 ## 2019/10/14-10/18 ##
-
+* Interesting DevOps meeting.
 
 ## 2019/10/07-10/11 ##
 * Monitoring takes some system resouces.
