@@ -2,6 +2,7 @@
 * Interesting DevOps meeting.
 * Nexus IQ server training.
 * Xls format can only store 65536 records in one sheet.
+* Attend LINE Financial Fukuoka introduction event.
 
 ## 2019/10/07-10/11 ##
 * Monitoring takes some system resouces.
