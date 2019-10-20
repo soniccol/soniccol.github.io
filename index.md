@@ -3,6 +3,7 @@
 * Nexus IQ server training.
 * Xls format can only store 65536 records in one sheet.
 * Attend LINE Financial Fukuoka introduction event.
+* From c10k to c100k: https://qunfei.wordpress.com/2016/09/20/from-c10k-to-c100k-problem-push-over-1000000-messages-to-web-clients-on-1-machine-simultaneously/amp/
 
 ## 2019/10/07-10/11 ##
 * Monitoring takes some system resouces.
