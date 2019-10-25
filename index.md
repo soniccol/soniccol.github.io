@@ -1,7 +1,8 @@
 ## 2019/10/21-10/25 ##
-* E.SUN Banking training from day 1 to day 5
+* E.SUN Bank training from day 1.
 * Communication training class.
 * Group training class.
+* Finished E.SUN Bank training.
 
 ## 2019/10/14-10/18 ##
 * Interesting DevOps meeting.
