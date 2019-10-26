@@ -3,6 +3,7 @@
 * Communication training class.
 * Group training class.
 * Finished E.SUN Bank training.
+* Attend TWJUG x Oracle Groundbreakers 2019.
 
 ## 2019/10/14-10/18 ##
 * Interesting DevOps meeting.
