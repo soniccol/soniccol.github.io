@@ -1,5 +1,5 @@
 ## 2019/10/28-11/1 ##
-* Set java web project cookie security and http only.
+* Set java web project cookie security and http only, https://access.redhat.com/solutions/338313
 
 
 ## 2019/10/21-10/25 ##
