@@ -1,3 +1,5 @@
+## 2019/10/28-11/1 ##
+
 ## 2019/10/21-10/25 ##
 * E.SUN Bank training from day 1.
 * Communication training class.
