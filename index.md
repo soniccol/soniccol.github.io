@@ -1,5 +1,6 @@
 ## 2019/10/28-11/1 ##
 * Set java web project cookie security and http only, https://access.redhat.com/solutions/338313
+* Disable IIS default page:https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc754807(v=ws.10)?redirectedfrom=MSDN
 
 
 ## 2019/10/21-10/25 ##
