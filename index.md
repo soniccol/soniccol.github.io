@@ -3,7 +3,7 @@
 * Disable IIS default page:https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc754807(v=ws.10)?redirectedfrom=MSDN
 * Discussion with two SI companies.
 * Maven package with local jar files:http://roufid.com/3-ways-to-add-local-jar-to-maven-project/
-
+* Nexus server maven repository try on.
 
 ## 2019/10/21-10/25 ##
 * E.SUN Bank training from day 1.
