@@ -4,6 +4,7 @@
 * Discussion with two SI companies.
 * Maven package with local jar files:http://roufid.com/3-ways-to-add-local-jar-to-maven-project/
 * Nexus server maven repository try on.
+* Playing video game :)
 
 ## 2019/10/21-10/25 ##
 * E.SUN Bank training from day 1.
