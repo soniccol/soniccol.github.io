@@ -2,6 +2,7 @@
 * Set java web project cookie security and http only to pass blackbox scan, https://access.redhat.com/solutions/338313
 * Learned some tips of how to expand a development team.
 * Team devops planning.
+* Discussion with an SI company.
 
 ## 2019/10/28-11/01 ##
 * Disable IIS default page:https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc754807(v=ws.10)?redirectedfrom=MSDN
