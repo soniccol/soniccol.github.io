@@ -1,3 +1,6 @@
+## 2019/11/11-11/15 ##
+* Attend a Japanese style interview in Taipei.
+
 ## 2019/11/04-11/08 ##
 * Set java web project cookie security and http only to pass blackbox scan, https://access.redhat.com/solutions/338313
 * Learned some tips of how to expand a development team.
