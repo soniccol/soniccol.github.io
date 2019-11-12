@@ -1,5 +1,6 @@
 ## 2019/11/11-11/15 ##
 * Attend a Japanese style interview in Taipei.
+* Discussion with an SI company and learned a lot in developing banking system.
 
 ## 2019/11/04-11/08 ##
 * Set java web project cookie security and http only to pass blackbox scan, https://access.redhat.com/solutions/338313
