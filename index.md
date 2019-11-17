@@ -4,6 +4,7 @@
 * Learned some program test tips.
 * Learned some basic knowledge about jBPM.
 * Study of some bank knowledge.
+* Do some arrangements for going abroad nextweek.
 
 ## 2019/11/04-11/08 ##
 * Set java web project cookie security and http only to pass blackbox scan, https://access.redhat.com/solutions/338313
