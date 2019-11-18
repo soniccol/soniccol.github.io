@@ -1,4 +1,5 @@
 ## 2019/11/18-11/22 ##
+* An instant speech class.
 
 ## 2019/11/11-11/15 ##
 * Attend a Japanese style interview in Taipei.
