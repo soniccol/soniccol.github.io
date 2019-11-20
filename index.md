@@ -1,6 +1,7 @@
 ## 2019/11/18-11/22 ##
 * An instant speech class.
 * Using FC compare tool to do txt file comparison.
+* Attend Line developer day 2019.
 
 ## 2019/11/11-11/15 ##
 * Attend a Japanese style interview in Taipei.
