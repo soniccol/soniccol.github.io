@@ -3,9 +3,10 @@
 * Using FC compare tool to do txt file comparison.
 * Attend Line developer day 1 2019.
 * Attend Line developer day 2 2019.
-* Vladivostok travel.
+* Vladivostok travel day 1.
 * Vladivostok travel day 2.
 * Vladivostok travel day 3.
+* Vladivostok travel day 4.
 
 ## 2019/11/11-11/15 ##
 * Attend a Japanese style interview in Taipei.
