@@ -1,8 +1,11 @@
+
+
 ## 201911/25-11/30 ##
 * Vladivostok travel day 3.
 * Vladivostok travel day 4.
 * Back from the games.
 * Using internal maven server to replace original maven repository.
+* JLPT Test.
 
 ## 2019/11/18-11/22 ##
 * An instant speech class.
