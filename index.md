@@ -1,11 +1,12 @@
-
+##2019/12/02-12/06 ##
+* RTC Build script modify.
 
 ## 201911/25-11/30 ##
 * Vladivostok travel day 3.
 * Vladivostok travel day 4.
 * Back from the games.
 * Using internal maven server to replace original maven repository.
-* JLPT Test.
+* JLPT N2 Test.
 
 ## 2019/11/18-11/22 ##
 * An instant speech class.
