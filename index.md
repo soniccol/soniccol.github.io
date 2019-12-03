@@ -1,5 +1,7 @@
 ## 2019/12/02-12/06 ##
 * RTC Build script modify.
+* Upgrade JBoss EAP 7.2 to production.
+
 
 ## 201911/25-11/30 ##
 * Vladivostok travel day 3.
