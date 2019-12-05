@@ -1,6 +1,7 @@
 ## 2019/12/02-12/06 ##
 * RTC Build script modify.
 * Upgrade JBoss EAP 7.2 to production.
+* Attend LINE Techpulse 2019.
 
 
 ## 201911/25-11/30 ##
