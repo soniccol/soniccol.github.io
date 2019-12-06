@@ -2,6 +2,7 @@
 * RTC Build script modify.
 * Upgrade JBoss EAP 7.2 to production.
 * Attend LINE Techpulse 2019.
+* Survey of Banking system.
 
 
 ## 201911/25-11/30 ##
