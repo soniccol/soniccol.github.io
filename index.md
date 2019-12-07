@@ -3,6 +3,7 @@
 * Upgrade JBoss EAP 7.2 to production.
 * Attend LINE Techpulse 2019.
 * Survey of Banking system.
+* Study of some pure network banks.
 
 
 ## 201911/25-11/30 ##
