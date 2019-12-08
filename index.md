@@ -1,3 +1,7 @@
+## 2019/12/09-12/13 ##
+* GL study.
+
+
 ## 2019/12/02-12/06 ##
 * RTC Build script modify.
 * Upgrade JBoss EAP 7.2 to production.
