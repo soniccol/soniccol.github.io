@@ -1,5 +1,6 @@
 ## 2019/12/09-12/13 ##
 * General ledger study.
+* Network banking study.
 
 
 ## 2019/12/02-12/06 ##
