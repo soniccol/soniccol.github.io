@@ -2,6 +2,7 @@
 * General ledger study.
 * Network banking study.
 * CMTrace try on.
+* LINE Bank interview.
 
 
 ## 2019/12/02-12/06 ##
