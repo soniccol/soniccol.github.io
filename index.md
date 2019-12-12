@@ -3,6 +3,7 @@
 * Network banking study.
 * CMTrace try on.
 * LINE Bank interview.
+* Keep migratiing to production.
 
 
 ## 2019/12/02-12/06 ##
