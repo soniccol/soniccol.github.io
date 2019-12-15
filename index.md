@@ -4,6 +4,7 @@
 * CMTrace try on.
 * LINE Bank interview.
 * Keep migratiing to production.
+* Migration is not an easy things to do.
 
 
 ## 2019/12/02-12/06 ##
