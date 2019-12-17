@@ -2,7 +2,7 @@
 * ISK test preperation.
 * Final migration of JBoss 7.2 to production environment.
 * Coding standard study.
-*
+* Java try-with-resource: https://tonylin.idv.tw/dokuwiki/doku.php/java:basic:exception:try-with-resource
 *
 
 ## 2019/12/09-12/13 ##
