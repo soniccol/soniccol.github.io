@@ -1,6 +1,6 @@
 ## 2019/12/16-12/22 ##
 * ISK test preperation.
-*
+* Final migration of JBoss 7.2 to production environment.
 *
 *
 *
