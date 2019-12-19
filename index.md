@@ -4,6 +4,7 @@
 * Coding standard study.
 * Java try-with-resource: https://tonylin.idv.tw/dokuwiki/doku.php/java:basic:exception:try-with-resource
 * Java coding rules,in E.SUN bank, study.
+* E.Sun bank 2020 strategic meeting.
 
 ## 2019/12/09-12/13 ##
 * General ledger study.
