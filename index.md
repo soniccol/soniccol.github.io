@@ -1,5 +1,5 @@
 ## 2019/12/23-12/31 ##
-*
+* Angular coding rules,in E.SUN bank, study.
 *
 *
 
