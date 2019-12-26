@@ -1,7 +1,7 @@
 ## 2019/12/23-12/31 ##
 * Angular coding rules,in E.SUN bank, study.
 * Git skill survey.
-*
+* Git version control practice in E.SUN bank environment.
 
 ## 2019/12/16-12/22 ##
 * ISK test preperation.
