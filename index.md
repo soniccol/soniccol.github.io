@@ -3,6 +3,7 @@
 * Git skill survey.
 * Git version control practice in E.SUN bank environment.
 * Architecture department strategy report.
+* Rest:)
 
 ## 2019/12/16-12/22 ##
 * ISK test preperation.
