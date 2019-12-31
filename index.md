@@ -5,6 +5,7 @@
 * Architecture department strategy report.
 * Use this query to get current oracle version: SELECT * FROM v$version;
 * Eclipse project checkstyle files fix.
+* Basic EFK study.
 * Rest:)
 
 ## 2019/12/16-12/22 ##
