@@ -1,3 +1,8 @@
+## 2020/01/01-01/05 ##
+*
+*
+*
+
 ## 2019/12/23-12/31 ##
 * Angular coding rules,in E.SUN bank, study.
 * Git skill survey.
@@ -7,6 +12,7 @@
 * Eclipse project checkstyle files fix.
 * Basic EFK study.
 * Eclipse auto formatter try on.
+* Happy New Year!
 * Rest:)
 
 ## 2019/12/16-12/22 ##
