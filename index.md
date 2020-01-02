@@ -1,5 +1,5 @@
 ## 2020/01/01-01/05 ##
-* Java maven code formatter:https://code.revelc.net/formatter-maven-plugin/
+* Java maven code formatter: https://code.revelc.net/formatter-maven-plugin/
 *
 *
 
