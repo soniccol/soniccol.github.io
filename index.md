@@ -1,6 +1,6 @@
 ## 2020/01/01-01/05 ##
 * Java maven code formatter: https://code.revelc.net/formatter-maven-plugin/
-*
+* Eclipse checkstyle try on.
 *
 
 ## 2019/12/23-12/31 ##
