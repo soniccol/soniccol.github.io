@@ -1,7 +1,7 @@
 ## 2020/01/01-01/05 ##
 * Java maven code formatter: https://code.revelc.net/formatter-maven-plugin/
 * Eclipse checkstyle try on.
-*
+* Read a book about international job seeking.
 
 ## 2019/12/23-12/31 ##
 * Angular coding rules,in E.SUN bank, study.
