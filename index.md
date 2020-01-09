@@ -1,7 +1,7 @@
 ## 2020/01/06-01/10 ##
 * Nexus IQ Server try on.
 * Refactoring code.
-*
+* Jar file security check using Nexus IQ server.
 *
 
 ## 2020/01/01-01/05 ##
