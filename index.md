@@ -2,7 +2,7 @@
 * Nexus IQ Server try on.
 * Refactoring code.
 * Jar file security check using Nexus IQ server.
-*
+* New system architecture design discussion.
 
 ## 2020/01/01-01/05 ##
 * Java maven code formatter: https://code.revelc.net/formatter-maven-plugin/
