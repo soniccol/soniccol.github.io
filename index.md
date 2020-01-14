@@ -1,5 +1,6 @@
 ## 2020/01/13-01/19 ##
 * Redhat Openshift Container Platform discussion.
+* New system architecture discussions.
 
 ## 2020/01/06-01/10 ##
 * Nexus IQ Server try on.
