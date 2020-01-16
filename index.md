@@ -2,6 +2,7 @@
 * Redhat Openshift Container Platform discussion.
 * New system architecture discussions.
 * T24 version control discussions.
+* Attend chatbot meetup.
 
 ## 2020/01/06-01/10 ##
 * Nexus IQ Server try on.
