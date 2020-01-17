@@ -3,6 +3,7 @@
 * New system architecture discussions.
 * T24 version control discussions.
 * Attend chatbot meetup.
+* Oracle session timezone test.
 
 ## 2020/01/06-01/10 ##
 * Nexus IQ Server try on.
