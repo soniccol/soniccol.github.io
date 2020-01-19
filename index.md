@@ -5,6 +5,7 @@
 * Attend chatbot meetup.
 * Oracle session timezone test.
 * Attend E.SUN knowledge share summit.
+* Release of bonus:)
 
 ## 2020/01/06-01/10 ##
 * Nexus IQ Server try on.
