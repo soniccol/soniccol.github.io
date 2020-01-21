@@ -1,5 +1,6 @@
 ## 2020/01/20-01/26 ##
 * Maven wrapper: https://www.cnblogs.com/easonjim/p/7620085.html
+* OCP discussion.
 
 ## 2020/01/13-01/19 ##
 * Redhat Openshift Container Platform discussion.
