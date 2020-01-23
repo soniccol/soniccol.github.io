@@ -3,6 +3,7 @@
 * OCP discussion.
 * SQL Server XML record update.
 * SpringBoot try on.
+* Shazam try on.
 
 ## 2020/01/13-01/19 ##
 * Redhat Openshift Container Platform discussion.
