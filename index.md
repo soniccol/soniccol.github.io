@@ -4,6 +4,7 @@
 * SQL Server XML record update.
 * SpringBoot try on.
 * Shazam try on.
+* Happy Chinese New Year(Mouse Year).
 
 ## 2020/01/13-01/19 ##
 * Redhat Openshift Container Platform discussion.
