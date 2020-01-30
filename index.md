@@ -1,6 +1,6 @@
 ## 2020/01/27-01/31 ##
 * Back to work.
-*
+* Netty echo server try on.
 *
 
 ## 2020/01/20-01/26 ##
