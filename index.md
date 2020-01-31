@@ -1,7 +1,7 @@
 ## 2020/01/27-01/31 ##
 * Back to work.
 * Netty echo server try on.
-*
+* sql server script generator.
 
 ## 2020/01/20-01/26 ##
 * Maven wrapper: https://www.cnblogs.com/easonjim/p/7620085.html
