@@ -2,6 +2,7 @@
 * Back to work.
 * Netty echo server try on.
 * sql server script generator.
+* T24 data scrumble plane.
 
 ## 2020/01/20-01/26 ##
 * Maven wrapper: https://www.cnblogs.com/easonjim/p/7620085.html
