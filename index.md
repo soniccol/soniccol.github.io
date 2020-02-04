@@ -1,5 +1,6 @@
 ## 2020/02/03-02/07 ##
 * Direct update whole SQLServer xml record will be faster than update single node in xml record.
+* Using SQL transaction to increase sql execution speed.
 
 ## 2020/01/27-01/31 ##
 * Back to work.
