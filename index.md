@@ -2,7 +2,7 @@
 * Direct update whole SQLServer xml record will be faster than update single node in xml record.
 * Using SQL transaction to increase sql execution speed.
 * VS Code multiple line editing: https://stackoverflow.com/questions/30037808/multiline-editing-in-visual-studio-code
-* Docker desktop installation.
+* Docker desktop installation: https://leoyeh.me/2018/03/05/%E8%A7%A3%E6%B1%BA%E5%95%8F%E9%A1%8C-Docker-1/
 
 ## 2020/01/27-01/31 ##
 * Back to work.
