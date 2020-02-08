@@ -5,6 +5,7 @@
 * Docker desktop installation: https://leoyeh.me/2018/03/05/%E8%A7%A3%E6%B1%BA%E5%95%8F%E9%A1%8C-Docker-1/
 * First time maven package executable jar.
 * SQLServer xml record could be update through normal sql update: https://dba.stackexchange.com/questions/75292/simplest-way-to-edit-single-entry-in-xml-column
+* StayFocus chrome plugin worked.
 
 ## 2020/01/27-01/31 ##
 * Back to work.
