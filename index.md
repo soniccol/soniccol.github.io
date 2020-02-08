@@ -1,4 +1,4 @@
-## 2020/02/03-02/07 ##
+## 2020/02/03-02/09 ##
 * Direct update whole SQLServer xml record will be faster than update single node in xml record.
 * Using SQL transaction to increase sql execution speed.
 * VS Code multiple line editing: https://stackoverflow.com/questions/30037808/multiline-editing-in-visual-studio-code
