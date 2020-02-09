@@ -6,6 +6,7 @@
 * First time maven package executable jar.
 * SQLServer xml record could be update through normal sql update: https://dba.stackexchange.com/questions/75292/simplest-way-to-edit-single-entry-in-xml-column
 * StayFocus chrome plugin worked.
+* First time AMEX card try on.
 
 ## 2020/01/27-01/31 ##
 * Back to work.
