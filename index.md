@@ -1,4 +1,5 @@
 ## 2020/02/10-02/16 ##
+* SQL Server backup script try on.
 
 ## 2020/02/03-02/09 ##
 * Direct update whole SQLServer xml record will be faster than update single node in xml record.
