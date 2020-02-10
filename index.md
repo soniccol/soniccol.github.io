@@ -1,5 +1,6 @@
 ## 2020/02/10-02/16 ##
 * SQL Server backup script try on.
+* Why we need jdk in web development instead of jre:https://stackoverflow.com/questions/1906445/what-is-the-difference-between-jdk-and-jre
 
 ## 2020/02/03-02/09 ##
 * Direct update whole SQLServer xml record will be faster than update single node in xml record.
