@@ -3,6 +3,7 @@
 * Why we need jdk in web development instead of jre:https://stackoverflow.com/questions/1906445/what-is-the-difference-between-jdk-and-jre
 * Writing a scramble text program.
 * Windows taskkill instructions:https://blog.twtnn.com/2013/11/windowstasklisttaskkillprocess.html
+* TCP Viewer for windows programs network monitoring:https://docs.microsoft.com/zh-tw/sysinternals/downloads/tcpview
 
 ## 2020/02/03-02/09 ##
 * Direct update whole SQLServer xml record will be faster than update single node in xml record.
