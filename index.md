@@ -5,6 +5,7 @@
 * Windows taskkill instructions:https://blog.twtnn.com/2013/11/windowstasklisttaskkillprocess.html
 * TCP Viewer for windows programs network monitoring:https://docs.microsoft.com/zh-tw/sysinternals/downloads/tcpview
 * Discussion with IBM about an new project.
+* Cross Domain:https://dailc.github.io/2017/03/22/ajaxCrossDomainSolution.html
 
 ## 2020/02/03-02/09 ##
 * Direct update whole SQLServer xml record will be faster than update single node in xml record.
