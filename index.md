@@ -1,3 +1,6 @@
+## 2020/02/17-02/21 ##
+* Get sql server version:https://docs.microsoft.com/zh-tw/sql/t-sql/functions/version-transact-sql-configuration-functions?view=sql-server-ver15
+
 ## 2020/02/10-02/16 ##
 * SQL Server backup script try on.
 * Why we need jdk in web development instead of jre:https://stackoverflow.com/questions/1906445/what-is-the-difference-between-jdk-and-jre
