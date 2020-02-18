@@ -1,6 +1,7 @@
 ## 2020/02/17-02/21 ##
 * Get sql server version:https://docs.microsoft.com/zh-tw/sql/t-sql/functions/version-transact-sql-configuration-functions?view=sql-server-ver15
 * Get all indices from sql server:https://dataedo.com/kb/query/sql-server/list-all-indexes-in-the-database
+* Production environment maintainance.
 
 ## 2020/02/10-02/16 ##
 * SQL Server backup script try on.
