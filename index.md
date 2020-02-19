@@ -3,6 +3,7 @@
 * Get all indices from sql server:https://dataedo.com/kb/query/sql-server/list-all-indexes-in-the-database
 * Production environment maintainance.
 * Maven life cycle:https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html#Lifecycle_Reference
+* Taiwan patent types:https://www1.tipo.gov.tw/ct.asp?xitem=502699&ctnode=7633&mp=1
 
 ## 2020/02/10-02/16 ##
 * SQL Server backup script try on.
