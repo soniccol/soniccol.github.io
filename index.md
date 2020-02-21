@@ -5,6 +5,7 @@
 * Maven life cycle:https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html#Lifecycle_Reference
 * Taiwan patent types:https://www1.tipo.gov.tw/ct.asp?xitem=502699&ctnode=7633&mp=1
 * RISC vs CISC cpu:http://ming10633.blogspot.com/2012/08/risc-vs-cisc.html
+* T24 discussion.
 
 ## 2020/02/10-02/16 ##
 * SQL Server backup script try on.
