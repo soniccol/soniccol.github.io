@@ -1,5 +1,5 @@
 ## 2020/02/24-02/28 ##
-
+* Effective SQL source code: https://github.com/TexanInParis/Effective-SQL
 ## 2020/02/17-02/22 ##
 * Get sql server version:https://docs.microsoft.com/zh-tw/sql/t-sql/functions/version-transact-sql-configuration-functions?view=sql-server-ver15
 * Get all indices from sql server:https://dataedo.com/kb/query/sql-server/list-all-indexes-in-the-database
