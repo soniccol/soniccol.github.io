@@ -1,7 +1,7 @@
 ## 2020/02/24-02/28 ##
 * Effective SQL source code: https://github.com/TexanInParis/Effective-SQL
 * Project architecture discussions.
-* 
+* T24 show system parameter: jdiag -dvl
 
 ## 2020/02/17-02/22 ##
 * Get sql server version:https://docs.microsoft.com/zh-tw/sql/t-sql/functions/version-transact-sql-configuration-functions?view=sql-server-ver15
