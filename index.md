@@ -3,6 +3,7 @@
 * Project architecture discussions.
 * T24 show system parameter: jdiag -dvl
 * Git self-generated SSL problem: https://blog.csdn.net/officercat/article/details/39989837
+* DevOps 10 years:https://engineering.linecorp.com/zh-hant/blog/tech-sharing-devops/
 
 ## 2020/02/17-02/22 ##
 * Get sql server version:https://docs.microsoft.com/zh-tw/sql/t-sql/functions/version-transact-sql-configuration-functions?view=sql-server-ver15
