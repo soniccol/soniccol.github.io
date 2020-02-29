@@ -5,6 +5,7 @@
 * Git self-generated SSL problem: https://blog.csdn.net/officercat/article/details/39989837
 * DevOps 10 years:https://engineering.linecorp.com/zh-hant/blog/tech-sharing-devops/
 * Leap year.
+* Emergency trouble shooting:https://rickhw.github.io/2019/10/04/DevOps/How-to-Figure-out-the-RootCause-for-an-AbnormalSystem-In-ZeroTime/?fbclid=IwAR1fl7Xb_MActGn4b3R0epI22zIsygTJPTqSpV_lfteuEPnsH-q23EUURvk
 
 ## 2020/02/17-02/22 ##
 * Get sql server version:https://docs.microsoft.com/zh-tw/sql/t-sql/functions/version-transact-sql-configuration-functions?view=sql-server-ver15
