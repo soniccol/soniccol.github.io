@@ -1,3 +1,6 @@
+## 2020/03/02-03/06 ##
+*
+
 ## 2020/02/24-02/28 ##
 * Effective SQL source code: https://github.com/TexanInParis/Effective-SQL
 * Project architecture discussions.
