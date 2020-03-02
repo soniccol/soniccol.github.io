@@ -1,5 +1,5 @@
 ## 2020/03/02-03/06 ##
-*
+* Use p6spy to monitor spring boot db connection:https://blog.csdn.net/atlim/article/details/75123983
 
 ## 2020/02/24-02/28 ##
 * Effective SQL source code: https://github.com/TexanInParis/Effective-SQL
