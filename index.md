@@ -3,6 +3,7 @@
 * JDBC datasource connection pool test:https://github.com/agroal/agroal/blob/master/agroal-pool/src/main/java/io/agroal/pool/DataSource.java
 * Communication is key in software developments.
 * Deepfake: https://github.com/deepfakes/faceswap
+* Linux no hangup(nohup) instruction:https://www.opencli.com/linux/nohup-background-execute-command
 
 ## 2020/02/24-02/28 ##
 * Effective SQL source code: https://github.com/TexanInParis/Effective-SQL
