@@ -4,6 +4,7 @@
 * Burndown chart explanation: https://medium.com/%E6%96%87%E6%80%9D%E4%B8%8D%E8%97%8F%E7%A7%81/%E6%96%87%E6%80%9D%E4%B8%8D%E8%97%8F%E7%A7%81-%E7%87%83%E7%9B%A1%E5%9C%96%E4%B8%8D%E7%B0%A1%E5%96%AE-8c55f1a1133f
 * Oracle v$sql: https://docs.oracle.com/cd/B19306_01/server.102/b14237/dynviews_2113.htm#REFRN30246
 * Design Patterns explanation: https://skyyen999.gitbooks.io/-study-design-pattern-in-java/content/singleton.html
+* JAVA 14:https://www.infoq.cn/article/Lt8JfYzeDYgxsUfaNdvY?fbclid=IwAR2K3C6VfKHHdMaTKFeUMZHEY4fhAodG5jJJZJBP9qKJWBt9_jTu1O-SNl4
 
 ## 2020/03/02-03/06 ##
 * Use p6spy to monitor spring boot db connection:https://blog.csdn.net/atlim/article/details/75123983
