@@ -1,3 +1,6 @@
+## 2020/03/16-03/20 ##
+* Arch Summit:https://www.archsummit.lu/
+
 ## 2020/03/09-03/13 ##
 * On premises vs off premises: https://www.arthurtoday.com/2010/11/on-premises-off-premises.html
 * Jira try on.
