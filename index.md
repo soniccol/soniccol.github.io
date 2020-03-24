@@ -1,5 +1,6 @@
 ## 2020/03/23-03/27 ##
 * Git remove file from repo: https://gitbook.tw/chapters/using-git/rename-and-delete-file.html
+* Linux storage diagram: https://www.thomas-krenn.com/en/wiki/Linux_Storage_Stack_Diagram
 
 ## 2020/03/16-03/20 ##
 * Arch Summit: https://www.archsummit.lu/
