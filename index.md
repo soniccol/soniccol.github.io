@@ -3,6 +3,7 @@
 * Linux storage diagram: https://www.thomas-krenn.com/en/wiki/Linux_Storage_Stack_Diagram
 * Codemaid vscode formatter: https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaid
 * Web tab storage: https://medium.com/@ohadinho25/communicate-between-browser-tabs-with-localstorage-8f4cdcb32339
+* Prototype pattern: https://ithelp.ithome.com.tw/articles/10205989
 
 ## 2020/03/16-03/20 ##
 * Arch Summit: https://www.archsummit.lu/
