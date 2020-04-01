@@ -1,6 +1,7 @@
 ## 2020/03/30-04/03 ##
 * Eclipse code formatter1: http://fahdshariff.blogspot.com/2011/08/useful-eclipse-templates-for-faster.html
 * Eclipse code formatter2: http://fahdshariff.blogspot.com/2008/11/eclipse-code-templates.html
+* Search text inside oracle: https://stackoverflow.com/questions/5033803/searching-for-text-within-oracle-stored-procedures
 
 ## 2020/03/23-03/27 ##
 * Git remove file from repo: https://gitbook.tw/chapters/using-git/rename-and-delete-file.html
