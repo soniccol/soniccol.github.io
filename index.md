@@ -1,4 +1,5 @@
 ## 2020/04/06-04/10 ##
+* The most used design patterns: https://matthung0807.blogspot.com/2019/09/java-most-used-design-patterns.html
 
 ## 2020/03/30-04/03 ##
 * Eclipse code formatter1: http://fahdshariff.blogspot.com/2011/08/useful-eclipse-templates-for-faster.html
@@ -13,7 +14,6 @@
 * Web tab storage: https://medium.com/@ohadinho25/communicate-between-browser-tabs-with-localstorage-8f4cdcb32339
 * Prototype pattern: https://ithelp.ithome.com.tw/articles/10205989
 * Builder pattern: https://matthung0807.blogspot.com/2019/09/design-pattern-builder-pattern.html
-*
 
 ## 2020/03/16-03/20 ##
 * Arch Summit: https://www.archsummit.lu/
