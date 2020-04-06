@@ -1,5 +1,6 @@
 ## 2020/04/06-04/10 ##
 * The most used design patterns: https://matthung0807.blogspot.com/2019/09/java-most-used-design-patterns.html
+* Git windows version update to latest version: https://blog.poychang.net/git-update-to-latest-version/
 
 ## 2020/03/30-04/03 ##
 * Eclipse code formatter1: http://fahdshariff.blogspot.com/2011/08/useful-eclipse-templates-for-faster.html
