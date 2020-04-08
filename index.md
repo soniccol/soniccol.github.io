@@ -2,6 +2,7 @@
 * The most used design patterns: https://matthung0807.blogspot.com/2019/09/java-most-used-design-patterns.html
 * Git windows version update to latest version: https://blog.poychang.net/git-update-to-latest-version/
 * Git cherry pick: https://gitbook.tw/chapters/faq/cherry-pick.html
+* SQL performerce: https://blog.xuite.net/j2ee/code/15120677-%E8%AA%BF%E6%A0%A1+SQL+%E4%BB%A5%E5%BE%B9%E5%BA%95%E6%94%B9%E5%96%84%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F%E6%95%88%E8%83%BD
 
 ## 2020/03/30-04/03 ##
 * Eclipse code formatter1: http://fahdshariff.blogspot.com/2011/08/useful-eclipse-templates-for-faster.html
