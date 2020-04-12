@@ -4,6 +4,7 @@
 * Git cherry pick: https://gitbook.tw/chapters/faq/cherry-pick.html
 * SQL performerce: https://blog.xuite.net/j2ee/code/15120677-%E8%AA%BF%E6%A0%A1+SQL+%E4%BB%A5%E5%BE%B9%E5%BA%95%E6%94%B9%E5%96%84%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F%E6%95%88%E8%83%BD
 * SonarQube needs jdk 11 to activate.
+* Star Method: https://fgh778899456.pixnet.net/blog/post/46009520-%E3%80%90%E4%BA%BA%E5%8A%9B%E8%B3%87%E6%BA%90%E3%80%91%E7%B2%BE%E6%BA%96%E9%9D%A2%E8%A9%A6%E7%94%A8%E4%BA%BA%E6%B3%95%EF%BC%9Astar%E9%9D%A2%E8%AB%87%E6%B3%95
 
 ## 2020/03/30-04/03 ##
 * Eclipse code formatter1: http://fahdshariff.blogspot.com/2011/08/useful-eclipse-templates-for-faster.html
