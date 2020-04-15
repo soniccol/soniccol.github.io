@@ -2,6 +2,7 @@
 * Maven test: https://blog.csdn.net/yonggang7/article/details/79780487
 * Junit excutable jar file export: https://stackoverflow.com/questions/51894726/how-can-i-export-junit-test-cases-into-an-executable-jar
 * Inter process communication: https://en.wikipedia.org/wiki/Inter-process_communication
+* Java async profiler: https://www.jianshu.com/p/9364028cca4e
 
 ## 2020/04/06-04/10 ##
 * The most used design patterns: https://matthung0807.blogspot.com/2019/09/java-most-used-design-patterns.html
