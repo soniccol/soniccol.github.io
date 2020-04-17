@@ -4,6 +4,7 @@
 * Inter process communication: https://en.wikipedia.org/wiki/Inter-process_communication
 * Java async profiler: https://www.jianshu.com/p/9364028cca4e
 * Microservice: https://github.com/DocsHome/microservices
+* Powershell modules:https://inskycastle.wordpress.com/2019/10/22/oracle%E9%A1%9E%E4%BC%BC-sql-profiler-%E5%8A%9F%E8%83%BD/
 
 ## 2020/04/06-04/10 ##
 * The most used design patterns: https://matthung0807.blogspot.com/2019/09/java-most-used-design-patterns.html
