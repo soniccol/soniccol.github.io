@@ -2,6 +2,7 @@
 * Git explane with D3: http://onlywei.github.io/explain-git-with-d3/
 * Git visualization: https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1
 * Increasing server RAM to deal with production problem.
+* Maven packaging configuration substitution: https://www.jianshu.com/p/f7c9340c5a9e
 
 ## 2020/04/13-04/17 ##
 * Maven test: https://blog.csdn.net/yonggang7/article/details/79780487
