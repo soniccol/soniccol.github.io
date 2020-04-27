@@ -1,3 +1,6 @@
+## 2020/04/27-05/01 ##
+* G1GC: https://www.oracle.com/technetwork/articles/java/vmoptions-jsp-140102.html
+
 ## 2020/04/20-04/25 ##
 * Git explane with D3: http://onlywei.github.io/explain-git-with-d3/
 * Git visualization: https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1
