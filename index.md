@@ -1,6 +1,9 @@
+## 2020/05/04-05/10 ##
+
 ## 2020/04/27-05/01 ##
 * G1GC: https://www.oracle.com/technetwork/articles/java/vmoptions-jsp-140102.html
 * jbase coding day.
+* Labor day rests.
 
 ## 2020/04/20-04/25 ##
 * Git explane with D3: http://onlywei.github.io/explain-git-with-d3/
