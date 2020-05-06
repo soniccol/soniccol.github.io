@@ -1,5 +1,6 @@
 ## 2020/05/04-05/10 ##
 * Linux rename file using find: https://unix.stackexchange.com/questions/227662/how-to-rename-multiple-files-using-find
+* Linux rename file using find2: https://stackoverflow.com/questions/16541582/find-multiple-files-and-rename-them-in-linux
 
 ## 2020/04/27-05/01 ##
 * G1GC: https://www.oracle.com/technetwork/articles/java/vmoptions-jsp-140102.html
