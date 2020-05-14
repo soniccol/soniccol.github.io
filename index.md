@@ -1,5 +1,6 @@
 ## 2020/05/11-05/15 ##
 * SQL Server restore: https://www.stellarinfo.com/article/restore-sql-server-database-from-bak-file.php
+* Data scrambling programs composed.
 
 ## 2020/05/04-05/10 ##
 * Linux rename file using find: https://unix.stackexchange.com/questions/227662/how-to-rename-multiple-files-using-find
