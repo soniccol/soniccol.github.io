@@ -1,6 +1,7 @@
 ## 2020/05/11-05/15 ##
 * SQL Server restore: https://www.stellarinfo.com/article/restore-sql-server-database-from-bak-file.php
 * Data scrambling programs composed.
+* How to initialize log4j properly: https://stackoverflow.com/questions/1140358/how-to-initialize-log4j-properly
 
 ## 2020/05/04-05/10 ##
 * Linux rename file using find: https://unix.stackexchange.com/questions/227662/how-to-rename-multiple-files-using-find
