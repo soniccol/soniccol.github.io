@@ -1,5 +1,6 @@
 ## 2020/05/18-05/22 ##
 * Dot Net core lessons.
+* Production environement problems observing and solving.
 
 ## 2020/05/11-05/15 ##
 * SQL Server restore: https://www.stellarinfo.com/article/restore-sql-server-database-from-bak-file.php
