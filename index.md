@@ -2,6 +2,7 @@
 * Dot Net core lessons.
 * Production environement problems observing and solving.
 * Content-Disposition and Filename when using FileSystemResource to force a file download file: https://stackoverflow.com/questions/16601428/how-to-set-content-disposition-and-filename-when-using-filesystemresource-to
+* JBoss standalone.conf VS standalone.conf.bat: https://stackoverflow.com/questions/13983793/jboss-standalone-conf-vs-standalone-conf-bat
 
 ## 2020/05/11-05/15 ##
 * SQL Server restore: https://www.stellarinfo.com/article/restore-sql-server-database-from-bak-file.php
