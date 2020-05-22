@@ -4,6 +4,7 @@
 * Content-Disposition and Filename when using FileSystemResource to force a file download file: https://stackoverflow.com/questions/16601428/how-to-set-content-disposition-and-filename-when-using-filesystemresource-to
 * JBoss standalone.conf VS standalone.conf.bat: https://stackoverflow.com/questions/13983793/jboss-standalone-conf-vs-standalone-conf-bat
 * Windows Git credential update.
+* SQLServer stop recording transaction log: https://stackoverflow.com/questions/21228688/the-transaction-log-for-database-is-full-due-to-log-backup-in-a-shared-host/38193995
 
 ## 2020/05/11-05/15 ##
 * SQL Server restore: https://www.stellarinfo.com/article/restore-sql-server-database-from-bak-file.php
