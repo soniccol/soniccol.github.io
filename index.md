@@ -1,4 +1,5 @@
 ## 2020/05/25-05/29 ##
+* Power shell execution rights: https://blog.twtnn.com/2013/11/windows-powershell-xxxxps1.html
 
 ## 2020/05/18-05/22 ##
 * Dot Net core lessons.
