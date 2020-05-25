@@ -1,3 +1,5 @@
+## 2020/05/25-05/29 ##
+
 ## 2020/05/18-05/22 ##
 * Dot Net core lessons.
 * Production environement problems observing and solving.
