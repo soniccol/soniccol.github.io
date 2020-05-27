@@ -1,6 +1,7 @@
 ## 2020/05/25-05/29 ##
 * Power shell execution rights: https://blog.twtnn.com/2013/11/windows-powershell-xxxxps1.html
 * Database backup form bak file: https://www.stellarinfo.com/article/restore-sql-server-database-from-bak-file.php
+* SQL server enhancement: https://wire19.com/steps-enhancing-sql-server-performance/
 
 ## 2020/05/18-05/22 ##
 * Dot Net core lessons.
