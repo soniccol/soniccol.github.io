@@ -1,3 +1,6 @@
+## 2020/06/01-06/05 ##
+*
+
 ## 2020/05/25-05/29 ##
 * Power shell execution rights: https://blog.twtnn.com/2013/11/windows-powershell-xxxxps1.html
 * Database backup form bak file: https://www.stellarinfo.com/article/restore-sql-server-database-from-bak-file.php
