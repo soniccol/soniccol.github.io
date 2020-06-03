@@ -1,5 +1,6 @@
 ## 2020/06/01-06/05 ##
 * Insert oracle db with special characters: https://stackoverflow.com/questions/152837/how-to-insert-a-string-which-contains-an
+* jdbc template batch insert: https://www.1ju.org/spring/spring-jdbctemplate-batchupdate-example
 
 ## 2020/05/25-05/29 ##
 * Power shell execution rights: https://blog.twtnn.com/2013/11/windows-powershell-xxxxps1.html
