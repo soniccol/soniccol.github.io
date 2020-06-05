@@ -2,6 +2,7 @@
 * Insert oracle db with special characters: https://stackoverflow.com/questions/152837/how-to-insert-a-string-which-contains-an
 * jdbc template batch insert: https://www.1ju.org/spring/spring-jdbctemplate-batchupdate-example
 * What is PMO: https://medium.com/paymo/what-is-pmo-epmo-ppmo-pgmo-and-pso-a32a09e0a8f9
+* Duty shift day.
 
 ## 2020/05/25-05/29 ##
 * Power shell execution rights: https://blog.twtnn.com/2013/11/windows-powershell-xxxxps1.html
