@@ -1,4 +1,5 @@
 ## 2020/06/08-06/12 ##
+* SQL Server truncate all table: https://stackoverflow.com/questions/6028960/sql-truncate-database-how-to-truncate-all-tables
 
 ## 2020/06/01-06/05 ##
 * Insert oracle db with special characters: https://stackoverflow.com/questions/152837/how-to-insert-a-string-which-contains-an
