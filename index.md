@@ -5,6 +5,7 @@
 * First time T24 R13 installation.
 * Complete T24 R13 and ETL tools estabilation.
 * 5W 1H work method.
+* A post method for SOAP service application/soap+xml.
 
 ## 2020/06/01-06/05 ##
 * Insert oracle db with special characters: https://stackoverflow.com/questions/152837/how-to-insert-a-string-which-contains-an
