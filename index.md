@@ -1,3 +1,6 @@
+## 2020/06/15-06/19 ##
+* Monday rest.
+
 ## 2020/06/08-06/12 ##
 * SQL Server truncate all table: https://stackoverflow.com/questions/6028960/sql-truncate-database-how-to-truncate-all-tables
 * Log4j print stacktrace: https://www.itread01.com/content/1547356507.html
