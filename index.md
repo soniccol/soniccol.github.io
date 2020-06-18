@@ -1,6 +1,7 @@
 ## 2020/06/15-06/19 ##
 * Monday rest.
 * Mentor series articles: https://medium.com/how-gipi-learn/first-mentor-78d227b6a5e6
+* Documenting TAFC update results.
 
 ## 2020/06/08-06/12 ##
 * SQL Server truncate all table: https://stackoverflow.com/questions/6028960/sql-truncate-database-how-to-truncate-all-tables
