@@ -1,3 +1,5 @@
+## 2020/06/22-06/26 ##
+
 ## 2020/06/15-06/19 ##
 * Monday rest.
 * Mentor series articles: https://medium.com/how-gipi-learn/first-mentor-78d227b6a5e6
