@@ -1,6 +1,7 @@
 ## 2020/06/29-07/03 ##
 * Back to work.
 * Duty shift and fix production report bug.
+* JAX-WS Building.
 
 ## 2020/06/22-06/26 ##
 * One week long rest.
