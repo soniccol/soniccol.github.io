@@ -1,3 +1,6 @@
+## 2020/07/13-07/17 ##
+*
+
 ## 2020/07/06-07/10 ##
 * Windows dir show only file name: https://stackoverflow.com/questions/23228983/batch-file-list-files-in-directory-only-filenames/23229008
 * SOAPMessage to string: https://stackoverflow.com/questions/522395/getting-raw-xml-from-soapmessage-in-java
