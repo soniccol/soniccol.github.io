@@ -1,6 +1,7 @@
 ## 2020/07/13-07/17 ##
 * Java Ant practice.
 * Use dbeaver-cli -vm to use other jvm.
+* Win 10 start and run program: https://www.fox-saying.com/blog/post/45194388-%5B%E6%95%99%E5%AD%B8%5D-%E5%A6%82%E4%BD%95%E8%AE%93-windows-10-%E5%9C%A8%E9%96%8B%E6%A9%9F%E6%99%82%E8%87%AA%E5%8B%95%E5%95%9F%E5%8B%95%E4%BD%A0%E6%83%B3
 
 ## 2020/07/06-07/10 ##
 * Windows dir show only file name: https://stackoverflow.com/questions/23228983/batch-file-list-files-in-directory-only-filenames/23229008
