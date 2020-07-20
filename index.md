@@ -1,3 +1,6 @@
+## 2020/07/20-07/24 ##
+* Attend project cooperate partner selection meeting.
+
 ## 2020/07/13-07/17 ##
 * Java Ant practice.
 * Use dbeaver-cli -vm to use other jvm.
