@@ -1,6 +1,7 @@
 ## 2020/07/20-07/24 ##
 * Attend project cooperate partner selection meeting.
 * Health is the basic of everything.
+* postgreSQL setup: https://confluence.atlassian.com/jirakb/error-connecting-to-database-fatal-no-pg_hba-conf-entry-for-host-x-x-x-x-user-jiradbuser-database-jiradb-ssl-off-950801726.html
 
 ## 2020/07/13-07/17 ##
 * Java Ant practice.
