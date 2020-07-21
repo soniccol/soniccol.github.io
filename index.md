@@ -1,5 +1,6 @@
 ## 2020/07/20-07/24 ##
 * Attend project cooperate partner selection meeting.
+* Health is the basic of everything.
 
 ## 2020/07/13-07/17 ##
 * Java Ant practice.
