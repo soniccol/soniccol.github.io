@@ -3,6 +3,7 @@
 * Health is the basic of everything.
 * postgreSQL setup: https://confluence.atlassian.com/jirakb/error-connecting-to-database-fatal-no-pg_hba-conf-entry-for-host-x-x-x-x-user-jiradbuser-database-jiradb-ssl-off-950801726.html
 * Get JVM information programmatically: https://stackoverflow.com/questions/5103121/how-to-find-the-jvm-version-from-a-program
+* Telnet resources: https://www.telnet.org/htm/dev.htm
 
 ## 2020/07/13-07/17 ##
 * Java Ant practice.
