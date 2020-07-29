@@ -1,5 +1,6 @@
 ## 2020/07/27~07/31 ##
 * Control-M Understanding.
+* RTGS server certification problem discussion.
 
 ## 2020/07/20-07/24 ##
 * Attend project cooperate partner selection meeting.
