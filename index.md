@@ -1,6 +1,7 @@
 ## 2020/07/27~07/31 ##
 * Control-M Understanding.
 * RTGS server certification problem discussion.
+* JAVA Fix PKIX path building failed: https://blog.csdn.net/HuanglnQuan/article/details/103737637
 
 ## 2020/07/20-07/24 ##
 * Attend project cooperate partner selection meeting.
