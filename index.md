@@ -3,6 +3,7 @@
 * RTGS server certification problem discussion.
 * JAVA Fix PKIX path building failed: https://blog.csdn.net/HuanglnQuan/article/details/103737637
 * SQL Server recovery mode: https://docs.microsoft.com/zh-tw/sql/relational-databases/backup-restore/view-or-change-the-recovery-model-of-a-database-sql-server?view=sql-server-ver15 
+* Attent TWJUG 8/1.
 
 ## 2020/07/20-07/24 ##
 * Attend project cooperate partner selection meeting.
