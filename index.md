@@ -1,5 +1,5 @@
 ## 2020/08/03~08/07 ##
-* 
+* Read soft skill book: https://www.amazon.com/gp/product/B0158SJ3EM/ref=dbs_a_def_rwt_bibl_vppi_i3
 
 ## 2020/07/27~07/31 ##
 * Control-M Understanding.
