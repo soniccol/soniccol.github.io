@@ -1,5 +1,6 @@
 ## 2020/08/03~08/07 ##
 * Read soft skill book: https://www.amazon.com/gp/product/B0158SJ3EM/ref=dbs_a_def_rwt_bibl_vppi_i3
+* Use convert(varchar(max),XMLRECORD) to convert xmlrecord to varchar in sql server.
 
 ## 2020/07/27~07/31 ##
 * Control-M Understanding.
