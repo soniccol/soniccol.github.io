@@ -2,6 +2,7 @@
 * Read soft skill book: https://www.amazon.com/gp/product/B0158SJ3EM/ref=dbs_a_def_rwt_bibl_vppi_i3
 * Use convert(varchar(max),XMLRECORD) to convert xmlrecord to varchar in sql server.
 * Find text and replace in files of windows: https://stackoverflow.com/questions/60034/how-can-you-find-and-replace-text-in-a-file-using-the-windows-command-line-envir
+* Happy father's day in Taiwan.
 
 ## 2020/07/27~07/31 ##
 * Control-M Understanding.
