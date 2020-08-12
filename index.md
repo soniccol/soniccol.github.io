@@ -1,5 +1,6 @@
 ## 2020/08/10~08/14 ##
 * error cannot open file 'kernel32.lib': https://stackoverflow.com/questions/39514632/error-cannot-open-file-kernel32-lib
+* Windows find certain string in files: https://www.computerhope.com/issues/ch001102.htm
 
 ## 2020/08/03~08/07 ##
 * Read soft skill book: https://www.amazon.com/gp/product/B0158SJ3EM/ref=dbs_a_def_rwt_bibl_vppi_i3
