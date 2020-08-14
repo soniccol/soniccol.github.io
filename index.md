@@ -2,6 +2,7 @@
 * error cannot open file 'kernel32.lib': https://stackoverflow.com/questions/39514632/error-cannot-open-file-kernel32-lib
 * Windows find certain string in files: https://www.computerhope.com/issues/ch001102.htm
 * Windows search file: https://stackoverflow.com/questions/8066679/how-to-do-a-simple-file-search-in-cmd
+* Attent redhat do292 openshift class.
 
 ## 2020/08/03~08/07 ##
 * Read soft skill book: https://www.amazon.com/gp/product/B0158SJ3EM/ref=dbs_a_def_rwt_bibl_vppi_i3
