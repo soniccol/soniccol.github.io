@@ -4,6 +4,7 @@
 * Windows search file: https://stackoverflow.com/questions/8066679/how-to-do-a-simple-file-search-in-cmd
 * Attent redhat do292 openshift class.
 * Redhat do292 openshift class day 2.
+* FFMpeg ERROR: Stream #1:0 -> #0:1 (copy) solved: https://github.com/ytdl-org/youtube-dl/issues/20515
 
 ## 2020/08/03~08/07 ##
 * Read soft skill book: https://www.amazon.com/gp/product/B0158SJ3EM/ref=dbs_a_def_rwt_bibl_vppi_i3
