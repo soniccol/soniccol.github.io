@@ -1,5 +1,6 @@
 ## 2020/08/17~08/21 ##
 * MicrofrontEnd https://single-spa.js.org/
+* RTGS program fix.
 
 ## 2020/08/10~08/14 ##
 * error cannot open file 'kernel32.lib': https://stackoverflow.com/questions/39514632/error-cannot-open-file-kernel32-lib
