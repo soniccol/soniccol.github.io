@@ -2,6 +2,7 @@
 * MicrofrontEnd https://single-spa.js.org/
 * RTGS program fix.
 * Attent redhat do292 openshift class day 3.
+* Finished do292 openshift class.
 
 ## 2020/08/10~08/14 ##
 * error cannot open file 'kernel32.lib': https://stackoverflow.com/questions/39514632/error-cannot-open-file-kernel32-lib
