@@ -1,5 +1,5 @@
 ## 2020/08/24~08/28 ##
-* What is \u0020 ? :https://blog.miniasp.com/post/2019/01/02/Common-Regex-patterns-for-Unicode-characters
+* What is \u0020 ? : https://blog.miniasp.com/post/2019/01/02/Common-Regex-patterns-for-Unicode-characters
 
 ## 2020/08/17~08/21 ##
 * MicrofrontEnd https://single-spa.js.org/
