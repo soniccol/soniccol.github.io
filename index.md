@@ -2,6 +2,7 @@
 * What is \u0020 ? : https://blog.miniasp.com/post/2019/01/02/Common-Regex-patterns-for-Unicode-characters
 * Attent gofer community meeting.
 * SDK man: https://sdkman.io/
+* Apache thirft hello world try on.
 
 ## 2020/08/17~08/21 ##
 * MicrofrontEnd https://single-spa.js.org/
