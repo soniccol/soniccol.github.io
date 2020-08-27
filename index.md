@@ -3,6 +3,7 @@
 * Attent gofer community meeting.
 * SDK man: https://sdkman.io/
 * Apache thirft hello world try on.
+* Github will suggest using release to distribute binary file.
 
 ## 2020/08/17~08/21 ##
 * MicrofrontEnd https://single-spa.js.org/
