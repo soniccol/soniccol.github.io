@@ -4,6 +4,7 @@
 * SDK man: https://sdkman.io/
 * Apache thirft hello world try on.
 * Github will suggest using release to distribute binary file.
+* jbase use of voc files: http://www.t24all.com/forum/28-t24-administration/5129-use-of-voc.html 
 
 ## 2020/08/17~08/21 ##
 * MicrofrontEnd https://single-spa.js.org/
