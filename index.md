@@ -1,3 +1,6 @@
+## 2020/08/31~09/03 ##
+* T24 voc files: https://naughtycoders.wordpress.com/tag/jbase/
+
 ## 2020/08/24~08/28 ##
 * What is \u0020 ? : https://blog.miniasp.com/post/2019/01/02/Common-Regex-patterns-for-Unicode-characters
 * Attent gofer community meeting.
