@@ -3,6 +3,7 @@
 * ETL Tools: https://medium.com/@ChibaKuma/etl%E8%88%87etl%E5%B7%A5%E5%85%B7-581fe50aa80c
 * Budget discussion meeting.
 * Duty shift.
+* Docker explain: https://zhuanlan.zhihu.com/p/53260098
 
 ## 2020/08/24~08/28 ##
 * What is \u0020 ? : https://blog.miniasp.com/post/2019/01/02/Common-Regex-patterns-for-Unicode-characters
