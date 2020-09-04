@@ -4,6 +4,7 @@
 * Budget discussion meeting.
 * Duty shift.
 * Docker explain: https://zhuanlan.zhihu.com/p/53260098
+* T24 JED Editor: https://t24hack.blogspot.com/
 
 ## 2020/08/24~08/28 ##
 * What is \u0020 ? : https://blog.miniasp.com/post/2019/01/02/Common-Regex-patterns-for-Unicode-characters
