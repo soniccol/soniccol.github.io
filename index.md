@@ -1,3 +1,6 @@
+## 2020/09/07~09/11 ##
+* First time interviewing in TSMC.
+
 ## 2020/08/31~09/03 ##
 * T24 voc files: https://naughtycoders.wordpress.com/tag/jbase/
 * ETL Tools: https://medium.com/@ChibaKuma/etl%E8%88%87etl%E5%B7%A5%E5%85%B7-581fe50aa80c
