@@ -1,6 +1,10 @@
+## 2020/09/14~09/18 ##
+
 ## 2020/09/07~09/11 ##
 * First time interviewing in TSMC.
 * Prometheus try on JBoss EAP.
+* Discussion on deploy system monitoring on Bank system.
+
 
 ## 2020/08/31~09/03 ##
 * T24 voc files: https://naughtycoders.wordpress.com/tag/jbase/
