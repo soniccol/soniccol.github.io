@@ -1,4 +1,5 @@
 ## 2020/09/21~09/25 ##
+* Accountibility: https://www.managertoday.com.tw/articles/view/1932
 
 ## 2020/09/14~09/18 ##
 * Spring Batch: https://medium.com/@softjobdays/springbatch%E7%B0%A1%E4%BB%8B-1b3ef3b8d73e
