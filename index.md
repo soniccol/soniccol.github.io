@@ -1,3 +1,5 @@
+## 2020/09/28~10/02 ##
+
 ## 2020/09/21~09/25 ##
 * Accountibility: https://www.managertoday.com.tw/articles/view/1932
 * Applying T24-update to UAT environment.
