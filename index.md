@@ -1,6 +1,7 @@
 ## 2020/09/28~10/02 ##
 * Duty shift.
 * Explain to your wife what is microservice in simplified Chinese https://zhuanlan.zhihu.com/p/34287582
+* Happy Moon festival and happy 35 years birthday to me.
 
 ## 2020/09/21~09/25 ##
 * Accountibility: https://www.managertoday.com.tw/articles/view/1932
