@@ -1,5 +1,5 @@
 ## 2020/10/12~10/16 ##
-* Windows share folder.
+* Windows share folder(Symbolic folder link using mlink instruction)
 
 ## 2020/10/05~10/09 ##
 * RTGS Fix.
