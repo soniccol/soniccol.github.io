@@ -1,3 +1,5 @@
+## 2020/10/26~10/30 ##
+
 ## 2020/10/19~10/23 ##
 * Gitlab authentication failed, change windows password: https://dotblogs.com.tw/zeroade/2018/10/11/111941
 * CherryPick change: https://docs.gitlab.com/ee/user/project/merge_requests/cherry_pick_changes.html
