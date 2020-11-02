@@ -1,3 +1,6 @@
+## 2020/11/02~11/06 ##
+* SSL: https://progressbar.tw/posts/96
+
 ## 2020/10/26~10/30 ##
 * Keep overtiming.
 
