@@ -1,5 +1,6 @@
-## 2020/11/02~11/06 ##
+## 2020/11/02~11/30 ##
 * SSL: https://progressbar.tw/posts/96
+* SSL limitation day: https://www.ithome.com.tw/news/138501
 
 ## 2020/10/26~10/30 ##
 * Keep overtiming.
