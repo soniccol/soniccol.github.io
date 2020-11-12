@@ -2,7 +2,8 @@
 * SSL: https://progressbar.tw/posts/96
 * SSL limitation day: https://www.ithome.com.tw/news/138501
 * null vs empaty string in Oracle: https://stackoverflow.com/questions/13278773/null-vs-empty-string-in-oracle
-* online ofs creator: https://ofs.etelej.com/#
+* Online ofs creator: https://ofs.etelej.com/#
+* Duty shift.
 
 ## 2020/10/26~10/30 ##
 * Keep overtiming.
