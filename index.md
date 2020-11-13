@@ -4,6 +4,7 @@
 * null vs empaty string in Oracle: https://stackoverflow.com/questions/13278773/null-vs-empty-string-in-oracle
 * Online ofs creator: https://ofs.etelej.com/#
 * Duty shift.
+* SQL Server show table schema: https://stackoverflow.com/questions/319354/what-is-the-equivalent-of-describe-table-in-sql-server
 
 ## 2020/10/26~10/30 ##
 * Keep overtiming.
