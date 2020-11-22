@@ -5,6 +5,7 @@
 * Online ofs creator: https://ofs.etelej.com/#
 * Duty shift.
 * SQL Server show table schema: https://stackoverflow.com/questions/319354/what-is-the-equivalent-of-describe-table-in-sql-server
+* Attent JCCONF TW 2020.
 
 ## 2020/10/26~10/30 ##
 * Keep overtiming.
