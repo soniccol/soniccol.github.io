@@ -7,6 +7,7 @@
 * SQL Server show table schema: https://stackoverflow.com/questions/319354/what-is-the-equivalent-of-describe-table-in-sql-server
 * Attent JCCONF TW 2020.
 * Officesnapshots: https://officesnapshots.com/
+* FFMpeg convert mov to mp4: https://stackoverflow.com/questions/12026381/ffmpeg-converting-mov-files-to-mp4/12026739
 
 ## 2020/10/26~10/30 ##
 * Keep overtiming.
