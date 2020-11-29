@@ -8,6 +8,7 @@
 * Attent JCCONF TW 2020.
 * Officesnapshots: https://officesnapshots.com/
 * FFMpeg convert mov to mp4: https://stackoverflow.com/questions/12026381/ffmpeg-converting-mov-files-to-mp4/12026739
+* Java Immutable class: https://matthung0807.blogspot.com/2020/04/java-immutable-class_3.html
 
 ## 2020/10/26~10/30 ##
 * Keep overtiming.
