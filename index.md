@@ -1,5 +1,6 @@
 ## 2020/12/01~12/31 ##
 * Accessing properties file in a war: https://stackoverflow.com/questions/31103118/accessing-properties-file-in-a-war
+* Selenium clear text field: https://blog.csdn.net/u012113628/article/details/58615054
 
 ## 2020/11/02~11/30 ##
 * SSL: https://progressbar.tw/posts/96
