@@ -1,6 +1,7 @@
 ## 2020/12/01~12/31 ##
 * Accessing properties file in a war: https://stackoverflow.com/questions/31103118/accessing-properties-file-in-a-war
 * Selenium clear text field: https://blog.csdn.net/u012113628/article/details/58615054
+* Windows built in MD5 checksum calculator: https://onthefencedevelopment.com/2017/08/15/windows-10-builtin-md5-checksum-calculator/
 
 ## 2020/11/02~11/30 ##
 * SSL: https://progressbar.tw/posts/96
