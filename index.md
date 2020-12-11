@@ -3,6 +3,7 @@
 * Selenium clear text field: https://blog.csdn.net/u012113628/article/details/58615054
 * Windows built in MD5 checksum calculator: https://onthefencedevelopment.com/2017/08/15/windows-10-builtin-md5-checksum-calculator/
 * Get linux version: https://blog.gtwang.org/linux/find-linux-distribution-name-version-number/
+* java.lang.ClassCastException: de.odysseus.el.ExpressionFactoryImpl cannot be cast to javax.el.Expres: https://blog.csdn.net/goodgo24/article/details/80179043
 
 ## 2020/11/02~11/30 ##
 * SSL: https://progressbar.tw/posts/96
