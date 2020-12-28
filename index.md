@@ -4,6 +4,7 @@
 * Windows built in MD5 checksum calculator: https://onthefencedevelopment.com/2017/08/15/windows-10-builtin-md5-checksum-calculator/
 * Get linux version: https://blog.gtwang.org/linux/find-linux-distribution-name-version-number/
 * java.lang.ClassCastException: de.odysseus.el.ExpressionFactoryImpl cannot be cast to javax.el.Expres: https://blog.csdn.net/goodgo24/article/details/80179043
+* Service level agreement: https://www.digitimes.com.tw/tw/dt/n/shwnws.asp?cnlid=10&cat=&cat1=&id=100886
 
 ## 2020/11/02~11/30 ##
 * SSL: https://progressbar.tw/posts/96
