@@ -1,5 +1,6 @@
 ## 2021/01/01~01/31 ##
 * Java architect job description: https://hiring.monster.com/employer-resources/job-description-templates/java-architect-job-description/
+* Oracle JDBC Download: https://www.oracle.com/database/technologies/appdev/jdbc-ucp-19c-downloads.html
 
 ## 2020/12/01~12/31 ##
 * Accessing properties file in a war: https://stackoverflow.com/questions/31103118/accessing-properties-file-in-a-war
