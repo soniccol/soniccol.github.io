@@ -4,6 +4,7 @@
 * Query JBoss version: https://stackoverflow.com/questions/2335275/what-version-of-jboss-i-am-running
 * AA Architecture: https://blog.toright.com/posts/6604/saas-%E9%AB%98%E5%8F%AF%E7%94%A8%E6%9E%B6%E6%A7%8B.html
 * Why alter command is referred as DDL and not DML? https://stackoverflow.com/questions/35146813/why-alter-command-is-referred-as-ddl-and-not-dml
+* tmux: https://larrylu.blog/tmux-33a24e595fbc 
 
 ## 2020/12/01~12/31 ##
 * Accessing properties file in a war: https://stackoverflow.com/questions/31103118/accessing-properties-file-in-a-war
