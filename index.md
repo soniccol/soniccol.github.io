@@ -1,5 +1,5 @@
 ## 2021/03/09~03/31 ##
-* SQL SERVER Get MDF LDF PATH:https://stackoverflow.com/questions/27057000/sql-server-get-all-databases-with-mdf-and-ldf-file-location
+* SQL SERVER Get MDF LDF PATH: https://stackoverflow.com/questions/27057000/sql-server-get-all-databases-with-mdf-and-ldf-file-location
 
 ## 2021/01/01~01/31 ##
 * Java architect job description: https://hiring.monster.com/employer-resources/job-description-templates/java-architect-job-description/
