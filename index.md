@@ -1,6 +1,7 @@
 ## 2021/03/09~03/31 ##
 * SQL SERVER Get MDF LDF PATH: https://stackoverflow.com/questions/27057000/sql-server-get-all-databases-with-mdf-and-ldf-file-location
 * Download T24 files for upgrade.
+* How to wirte console output to file in java: https://www.dev2qa.com/how-to-write-console-output-to-text-file-in-java/
 
 ## 2021/02/01~02/08 ##
 * Most of days are preparing Chinese Lunar New Year.
