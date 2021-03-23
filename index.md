@@ -2,6 +2,7 @@
 * SQL SERVER Get MDF LDF PATH: https://stackoverflow.com/questions/27057000/sql-server-get-all-databases-with-mdf-and-ldf-file-location
 * Download T24 files for upgrade.
 * How to wirte console output to file in java: https://www.dev2qa.com/how-to-write-console-output-to-text-file-in-java/
+* .bashrc vs .bash_profile: http://jamestw.logdown.com/posts/283485--bash-profile-bashrc-difference
 
 ## 2021/02/01~02/08 ##
 * Most of days are preparing Chinese Lunar New Year.
