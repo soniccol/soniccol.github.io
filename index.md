@@ -3,6 +3,7 @@
 * Download T24 files for upgrade.
 * How to wirte console output to file in java: https://www.dev2qa.com/how-to-write-console-output-to-text-file-in-java/
 * .bashrc vs .bash_profile: http://jamestw.logdown.com/posts/283485--bash-profile-bashrc-difference
+* Oracle kill processing job: http://oracleside.blogspot.com/2014/12/how-to-kill-datapump-job.html
 
 ## 2021/02/01~02/08 ##
 * Most of days are preparing Chinese Lunar New Year.
