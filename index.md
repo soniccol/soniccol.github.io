@@ -1,3 +1,6 @@
+## 2021/04/01~04/30 ##
+* Oracle sqlplus script runs in background: https://stackoverflow.com/questions/27306225/running-sqlplus-in-background-in-unix
+
 ## 2021/03/09~03/31 ##
 * SQL SERVER Get MDF LDF PATH: https://stackoverflow.com/questions/27057000/sql-server-get-all-databases-with-mdf-and-ldf-file-location
 * Download T24 files for upgrade.
