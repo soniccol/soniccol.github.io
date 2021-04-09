@@ -1,5 +1,6 @@
 ## 2021/04/01~04/30 ##
 * Oracle sqlplus script runs in background: https://stackoverflow.com/questions/27306225/running-sqlplus-in-background-in-unix
+* Oracle tablespace size query: https://jasper-it.blogspot.com/2014/07/oracle-tablespace.html
 
 ## 2021/03/09~03/31 ##
 * SQL SERVER Get MDF LDF PATH: https://stackoverflow.com/questions/27057000/sql-server-get-all-databases-with-mdf-and-ldf-file-location
