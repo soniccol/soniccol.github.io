@@ -1,3 +1,6 @@
+## 2021/05/01~05/24 ##
+* Mostly are upgrading Bank system.
+
 ## 2021/04/01~04/30 ##
 * Oracle sqlplus script runs in background: https://stackoverflow.com/questions/27306225/running-sqlplus-in-background-in-unix
 * Oracle tablespace size query: https://jasper-it.blogspot.com/2014/07/oracle-tablespace.html
