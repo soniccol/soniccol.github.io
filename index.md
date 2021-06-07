@@ -1,3 +1,6 @@
+## 2021/06/01~06/30 ##
+* Busy fixing VN RTGS problems.
+
 ## 2021/05/01~05/24 ##
 * Mostly are upgrading Bank system.
 
