@@ -1,3 +1,6 @@
+## 2021/07/01~07/31 ##
+* 7/8 Last day in E.SUN IT Department.
+
 ## 2021/06/01~06/30 ##
 * Busy fixing VN RTGS problems.
 
