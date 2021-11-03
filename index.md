@@ -1,3 +1,6 @@
+## 2021/11/01~2021/12/31 ##
+* Linux change timezone command: https://clay-atlas.com/blog/2020/09/17/linux-cn-change-or-check-date/
+
 ## 2021/07/01~07/31 ##
 * 7/8 Last day in E.SUN IT Department.
 
